@@ -174,7 +174,6 @@ Open this URL in a web browser to view the E-Commerce Sales & Customer Behavior 
 ## 8. Project Files
 
 - `Tejaswini_Ecommerce_Sales_Analysis.py` — complete Python source code.
-- `Tejaswini_Ecommerce_Sales_Analysis.ipynb` — notebook version of the code.
 - `requirements.txt` — required Python libraries.
 - `Tejaswini_Ecommerce_Sales_Analysis_ProjectReport.docx` — project documentation.
 - `README.md` — project overview and setup instructions.
