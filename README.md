@@ -30,11 +30,23 @@ The complete dependency list is provided in `requirements.txt`.
 
 ## 4. Dataset
 
-The dataset is generated automatically by the project itself; an external dataset download is not required.
+The dataset used in this project was generated and prepared by me specifically for the E-Commerce Sales & Customer Behavior Analysis project. The application creates the following datasets automatically:
 
-The application creates:
 - `data/ecommerce_sales_raw.csv` — the generated raw dataset.
-- `data/ecommerce_sales_clean.csv` — the cleaned dataset.
+- `data/ecommerce_sales_clean.csv` — the cleaned and processed dataset used for analysis.
+
+An external dataset is not required to run the application.
+
+### Optional Reference Dataset
+
+For users who wish to explore a real-world e-commerce dataset, the project can also be extended or compared with the **Brazilian E-Commerce Public Dataset by Olist**, available on Kaggle:
+
+**Dataset Link:**  
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+The Olist dataset contains approximately 100,000 orders from Brazilian marketplaces and includes information related to orders, products, customers, payments, sellers, and reviews. It is provided by Olist and hosted on Kaggle. Download the dataset before using it. 
+
+> **Note:** The Olist dataset is an optional external reference dataset and is not required for the current version of this project.
 
 The generated dataset contains 600 original rows plus deliberately added duplicate rows and data-quality issues for demonstrating cleaning techniques.
 
