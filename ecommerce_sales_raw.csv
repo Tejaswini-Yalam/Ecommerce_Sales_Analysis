@@ -1,0 +1,609 @@
+order_id,order_date,customer_id,customer_segment,region,product_category,product_name,unit_price,quantity,discount_percent,payment_method,delivery_days,delivery_status,customer_rating,total_sales
+ORD-00001,2024-04-24,CUST-1055,New,Central,Books,Fiction Novel,168.76,3,0,Wallet,3.0,Delivered,2.0,506.28
+ORD-00002,2024-08-02,CUST-1087,Regular,South,Sports,Dumbbell Set,2949.27,6,15,UPI,,Delayed,5.0,15041.28
+ORD-00003,2024-06-25,CUST-1141,Regular,Central,Electronics,Wireless Earbuds,2775.62,3,25,Net Banking,10.0,Cancelled,4.0,6245.15
+ORD-00004,2024-05-28,CUST-1090,New,East,Fashion,Cotton T-Shirt,423.73,2,25,Credit Card,2.0,Cancelled,4.0,635.6
+ORD-00005,2024-08-24,CUST-1198,New,South,Books,Self-Help Book,550.6,2,0,Credit Card,7.0,Delayed,4.0,1101.2
+ORD-00006,2024-06-10,CUST-1143,Premium,East,Beauty,Shampoo,259.21,5,20,Wallet,4.0,Delayed,5.0,1036.84
+ORD-00007,2024-09-09,CUST-1098,Regular,Central,Sports,Football,1639.39,2,15,COD,2.0,Cancelled,1.0,2786.96
+ORD-00008,2024-02-28,CUST-1184,Premium,East,Home & Kitchen,  Cushion Cover  ,3047.53,1,20,Wallet,9.0,Delivered,4.0,2438.02
+ORD-00009,2024-11-23,CUST-1000,Premium,East,Sports,Yoga Mat,3520.92,3,25,COD,9.0,Delivered,4.0,7922.07
+ORD-00010,2024-01-30,CUST-1032,Premium,West,Electronics,Bluetooth Speaker,5369.35,3,0,Wallet,4.0,Delivered,2.0,16108.05
+ORD-00011,2024-10-03,CUST-1063,New,North,Home & Kitchen,Cushion Cover,3085.41,4,0,Net Banking,4.0,Delivered,4.0,12341.64
+ORD-00012,2024-02-06,CUST-1124,New,Central,Sports,Cycling Gloves,1151.42,2,0,UPI,1.0,Cancelled,4.0,2302.84
+ORD-00013,2024-07-27,CUST-1172,Premium,North,Sports,Cycling Gloves,2048.88,4,25,Credit Card,4.0,Delayed,2.0,6146.64
+ORD-00014,2024-04-08,CUST-1113,Premium,North,Books,Cookbook,750.44,1,0,Credit Card,4.0,Cancelled,,750.44
+ORD-00015,2024-07-27,CUST-1067,Regular,East,Sports,Yoga Mat,3885.29,2,0,COD,8.0,Cancelled,5.0,7770.58
+ORD-00016,2024-04-07,CUST-1149,Regular,Central,Books,Biography,646.4,4,0,Wallet,5.0,Delivered,4.0,2585.6
+ORD-00017,2024-10-31,CUST-1020,Regular,Central,Electronics,Smartwatch,1216.58,2,0,Wallet,2.0,Cancelled,4.0,2433.16
+ORD-00018,2024-05-02,CUST-1002,Regular,Central,Home & Kitchen,LED Lamp,913.84,6,5,Wallet,5.0,Delivered,5.0,5208.89
+ORD-00019,2024-06-27,CUST-1206,Premium,Central,Electronics,Smartwatch,1908.4,3,0,Credit Card,2.0,Cancelled,4.0,5725.2
+ORD-00020,2024-03-09,CUST-1087,New,East,Grocery,Protein Bar Pack,429.32,6,0,Wallet,5.0,Delayed,2.0,2575.92
+ORD-00021,2024-05-21,CUST-1180,Regular,Central,Home & Kitchen,Non-stick Pan,549.97,4,25,Credit Card,1.0,Delivered,1.0,1649.91
+ORD-00022,2024-10-09,CUST-1230,Regular,South,Electronics,Smartphone Case,3637.07,3,15,UPI,3.0,Cancelled,5.0,9274.53
+ORD-00023,2024-03-20,CUST-1085,Regular,South,ELECTRONICS,Bluetooth Speaker,4856.6,4,15,Net Banking,4.0,Delivered,3.0,16512.44
+ORD-00024,2024-08-28,CUST-1006,Premium,South,Grocery,Organic Rice 5kg,520.8,1,25,COD,4.0,Delayed,4.0,390.6
+ORD-00025,2024-11-24,CUST-1066,New,Central,HOME & KITCHEN,Non-stick Pan,3392.39,3,5,Net Banking,9.0,Delivered,5.0,9668.31
+ORD-00026,2024-06-09,CUST-1133,Premium,South,ELECTRONICS,Smartwatch,3059.73,6,25,Net Banking,7.0,Delayed,,13768.78
+ORD-00027,2024-03-04,CUST-1107,Premium,West,Electronics,Bluetooth Speaker,4040.41,6,25,UPI,5.0,Cancelled,,18181.85
+ORD-00028,2024-05-26,CUST-1130,Regular,South,Sports,Cricket Bat,1802.48,1,5,Credit Card,4.0,Delayed,5.0,1712.36
+ORD-00029,2024-06-07,CUST-1116,Regular,Central,Sports,Cycling Gloves,1540.2,2,20,UPI,4.0,Cancelled,4.0,2464.32
+ORD-00030,2024-12-01,CUST-1142,New,North,Books,Comic Book,520.78,2,0,COD,1.0,Delivered,2.0,1041.56
+ORD-00031,2024-06-11,CUST-1115,Regular,South,Grocery,Olive Oil 1L,834.34,5,15,Net Banking,8.0,Cancelled,,3545.94
+ORD-00032,2024-05-26,CUST-1039,Premium,South,Beauty,Lipstick,603.09,1,20,Credit Card,4.0,Delayed,4.0,482.47
+ORD-00033,2024-04-15,CUST-1097,Regular,North,Beauty,Shampoo,1045.31,4,0,Net Banking,7.0,Delayed,5.0,4181.24
+ORD-00034,2024-10-06,CUST-1204,Regular,South,Grocery,Olive Oil 1L,1038.79,4,15,COD,10.0,Delivered,4.0,3531.89
+ORD-00035,2024-10-15,CUST-1054,Regular,East,Sports,Cycling Gloves,399.78,4,15,Net Banking,1.0,Delayed,2.0,1359.25
+ORD-00036,2024-01-10,CUST-1193,New,South,Home & Kitchen,Storage Box,1069.88,1,10,UPI,9.0,Delivered,1.0,962.89
+ORD-00037,2024-02-28,CUST-1183,New,South,Sports,Dumbbell Set,1182.62,4,20,Net Banking,10.0,Delivered,4.0,3784.38
+ORD-00038,2024-07-11,CUST-1217,Premium,Central,Sports,Yoga Mat,3736.88,5,20,Credit Card,7.0,Cancelled,4.0,14947.52
+ORD-00039,2024-07-08,CUST-1092,Premium,West,Grocery,Organic Rice 5kg,481.92,0,20,UPI,2.0,Delayed,,0.0
+ORD-00040,2024-10-02,CUST-1022,Regular,West,Fashion,Jacket,2906.78,3,15,UPI,8.0,Delayed,5.0,7412.29
+ORD-00041,2024-09-10,CUST-1225,Regular,Central,Sports,Cycling Gloves,2772.3,3,0,Credit Card,6.0,Cancelled,3.0,8316.9
+ORD-00042,2024-10-11,CUST-1177,New,East,Fashion,Cotton T-Shirt,951.66,4,10,Wallet,4.0,Delayed,5.0,3425.98
+ORD-00043,2024-10-08,CUST-1030,Premium,Central,Beauty,Perfume,1026.02,4,20,UPI,6.0,Delivered,5.0,3283.26
+ORD-00044,2024-09-25,CUST-1181,Premium,South,Fashion,Handbag,1046.55,5,25,Net Banking,10.0,Delivered,4.0,3924.56
+ORD-00045,2024-09-08,CUST-1240,Regular,North,Electronics,Smartwatch,2319.11,2,20,Credit Card,2.0,Delayed,1.0,3710.58
+ORD-00046,2024-03-18,CUST-1158,New,Central,Beauty,Face Serum,1102.08,6,0,COD,3.0,Delayed,4.0,6612.48
+ORD-00047,2024-10-18,CUST-1169,New,South,Beauty,Shampoo,1569.27,4,5,UPI,10.0,Delivered,1.0,5963.23
+ORD-00048,2024-12-18,CUST-1175,New,East,Sports,Yoga Mat,879.17,4,10,Wallet,10.0,Cancelled,5.0,3165.01
+ORD-00049,2024-11-27,CUST-1145,Regular,West,Grocery,Green Tea Pack,567.65,5,0,Credit Card,3.0,Delayed,4.0,2838.25
+ORD-00050,2024-10-03,CUST-1023,New,Central,Books,Cookbook,674.8,3,15,Wallet,8.0,Delivered,5.0,1720.74
+ORD-00051,2024-09-22,CUST-1089,Regular,East,Grocery,Almonds 500g,733.87,2,10,Net Banking,8.0,Cancelled,4.0,1320.97
+ORD-00052,2024-05-27,CUST-1221,Premium,North,Electronics,Smartphone Case,2514.98,6,10,Wallet,7.0,Delayed,,13580.89
+ORD-00053,2024-09-12,CUST-1031,New,Central,Beauty,Face Serum,459.51,3,15,UPI,8.0,Cancelled,1.0,1171.75
+ORD-00054,2024-02-17,CUST-1130,Premium,East,Fashion,Running Shoes,1787.27,5,10,COD,4.0,Delayed,2.0,8042.72
+ORD-00055,2024-04-07,CUST-1087,Premium,East,Beauty,Lipstick,903.7,2,10,Credit Card,10.0,Delayed,,1626.66
+ORD-00056,2024-09-07,CUST-1082,New,South,Books,Cookbook,778.11,5,20,Wallet,3.0,Delayed,5.0,3112.44
+ORD-00057,2024-12-27,CUST-1032,Premium,Central,Fashion,Handbag,417.85,6,10,Net Banking,7.0,Delivered,5.0,2256.39
+ORD-00058,2024-03-14,CUST-1020,Regular,Central,Grocery,Olive Oil 1L,209.68,4,0,COD,7.0,Delayed,3.0,838.72
+ORD-00059,2024-02-05,CUST-1223,New,West,Books,Comic Book,804.29,1,15,UPI,4.0,Cancelled,4.0,683.65
+ORD-00060,2024-07-02,CUST-1020,Premium,West,Home & Kitchen,Non-stick Pan,399.47,1,5,Wallet,6.0,Cancelled,5.0,379.5
+ORD-00061,2024-08-24,CUST-1040,New,West,Fashion,Handbag,2764.64,0,0,Net Banking,5.0,Cancelled,5.0,0.0
+ORD-00062,2024-06-03,CUST-1179,Regular,North,Home & Kitchen,Storage Box,2493.52,4,25,COD,4.0,Delayed,5.0,7480.56
+ORD-00063,2024-11-06,CUST-1064,Premium,South,Electronics,Smartwatch,5298.35,6,0,Credit Card,8.0,Cancelled,4.0,31790.1
+ORD-00064,2024-10-23,CUST-1138,Regular,Central,Books,Fiction Novel,381.7,4,0,Wallet,6.0,Delayed,3.0,1526.8
+ORD-00065,2024-05-31,CUST-1172,Regular,Central,Grocery,Green Tea Pack,382.67,4,25,Net Banking,6.0,Delivered,2.0,1148.01
+ORD-00066,2024-08-20,CUST-1006,Premium,Central,Grocery,Olive Oil 1L,115.31,5,0,Net Banking,6.0,Cancelled,4.0,576.55
+ORD-00067,2024-06-03,CUST-1227,Premium,South,Fashion,Cotton T-Shirt,2015.59,4,20,COD,7.0,Delayed,2.0,6449.89
+ORD-00068,2024-03-20,CUST-1055,Regular,West,Home & Kitchen,Cushion Cover,1612.16,6,20,UPI,7.0,Delayed,2.0,7738.37
+ORD-00069,2024-02-01,CUST-1164,Premium,Central,Electronics,Bluetooth Speaker,3631.22,6,5,Credit Card,7.0,Delivered,4.0,20697.95
+ORD-00070,2024-10-16,CUST-1198,New,Central,Grocery,Almonds 500g,367.93,2,25,Credit Card,4.0,Delayed,2.0,551.89
+ORD-00071,2024-03-30,CUST-1067,New,South,Grocery,  Green Tea Pack  ,1186.28,5,5,COD,2.0,Cancelled,1.0,5634.83
+ORD-00072,2024-10-30,CUST-1133,Regular,West,Electronics,Wireless Earbuds,3276.48,3,15,Credit Card,2.0,Delivered,5.0,8355.02
+ORD-00073,2024-12-30,CUST-1149,Premium,East,Beauty,Sunscreen,853.35,1,10,COD,8.0,Cancelled,2.0,768.01
+ORD-00074,2024-02-20,CUST-1116,Regular,West,Sports,Cricket Bat,1978.75,5,10,Credit Card,2.0,Delayed,,8904.38
+ORD-00075,2024-12-17,CUST-1033,Premium,North,Beauty,Shampoo,1247.43,3,0,Wallet,8.0,Cancelled,2.0,3742.29
+ORD-00076,2024-12-06,CUST-1168,Regular,South,Sports,Cricket Bat,2779.05,4,5,Credit Card,7.0,Delayed,1.0,10560.39
+ORD-00077,2024-04-25,CUST-1237,Premium,East,Grocery,Protein Bar Pack,504.32,3,15,Credit Card,7.0,Delivered,,1286.02
+ORD-00078,2024-04-02,CUST-1096,Regular,West,Home & Kitchen,LED Lamp,3245.0,3,0,Net Banking,3.0,Delivered,5.0,9735.0
+ORD-00079,2024-02-13,CUST-1124,Premium,West,Home & Kitchen,LED Lamp,2595.19,5,15,COD,1.0,Delayed,3.0,11029.56
+ORD-00080,2024-05-25,CUST-1052,Regular,South,Fashion,Jacket,607.31,4,0,UPI,10.0,Delayed,5.0,2429.24
+ORD-00081,2024-08-08,CUST-1018,Regular,North,Home & Kitchen,LED Lamp,639.95,4,20,COD,3.0,Delivered,3.0,2047.84
+ORD-00082,2024-10-20,CUST-1117,Premium,East,Beauty,Face Serum,1572.48,5,10,Credit Card,7.0,Delayed,5.0,7076.16
+ORD-00083,2024-09-25,CUST-1162,New,Central,Grocery,Organic Rice 5kg,367.65,5,10,Wallet,2.0,Delivered,5.0,1654.42
+ORD-00084,2024-03-16,CUST-1045,Premium,West,Grocery,Almonds 500g,486.21,6,25,COD,4.0,Cancelled,2.0,2187.94
+ORD-00085,2024-11-21,CUST-1077,Regular,Central,Grocery,Protein Bar Pack,593.8,5,20,Credit Card,10.0,Delayed,5.0,2375.2
+ORD-00086,2024-01-30,CUST-1118,Premium,Central,Sports,Yoga Mat,1448.51,4,0,Credit Card,6.0,Delayed,4.0,5794.04
+ORD-00087,2024-08-31,CUST-1021,Premium,South,Grocery,Protein Bar Pack,817.02,3,15,Credit Card,9.0,Delivered,3.0,2083.4
+ORD-00088,2024-11-08,CUST-1202,Premium,East,Books,Comic Book,893.24,5,15,Credit Card,3.0,Delayed,5.0,3796.27
+ORD-00089,2024-12-02,CUST-1178,Premium,West,Electronics,Smartwatch,4327.57,3,5,UPI,10.0,Cancelled,3.0,12333.57
+ORD-00090,2024-06-17,CUST-1243,New,East,BOOKS,Fiction Novel,382.19,4,20,COD,3.0,Delivered,,1223.01
+ORD-00091,2024-02-21,CUST-1033,Premium,West,Fashion,Denim Jeans,718.35,3,25,UPI,,Delivered,,1616.29
+ORD-00092,2024-08-12,CUST-1200,Regular,South,Fashion,Jacket,2484.42,2,20,Wallet,1.0,Delivered,5.0,3975.07
+ORD-00093,2024-12-13,CUST-1209,New,Central,Home & Kitchen,Storage Box,3187.92,2,5,UPI,10.0,Delayed,5.0,6057.05
+ORD-00094,2024-12-30,CUST-1111,New,South,Electronics,Power Bank,5345.41,5,0,COD,9.0,Delayed,2.0,26727.05
+ORD-00095,2024-04-30,CUST-1202,New,South,Electronics,Power Bank,1076.94,0,5,Credit Card,7.0,Delayed,2.0,0.0
+ORD-00096,2024-12-27,CUST-1240,Premium,Central,Grocery,Olive Oil 1L,865.68,2,25,Wallet,,Delayed,5.0,1298.52
+ORD-00097,2024-05-02,CUST-1147,New,South,Electronics,Bluetooth Speaker,2035.73,1,0,Net Banking,7.0,Delayed,5.0,2035.73
+ORD-00098,2024-04-05,CUST-1141,New,West,Electronics,Smartwatch,2634.64,5,10,COD,2.0,Delivered,,11855.88
+ORD-00099,2024-01-09,CUST-1085,New,North,Books,Comic Book,885.78,3,20,Net Banking,6.0,Cancelled,2.0,2125.87
+ORD-00100,2024-12-22,CUST-1011,New,North,Home & Kitchen,Blender,2948.75,6,10,Net Banking,8.0,Delayed,3.0,15923.25
+ORD-00101,2024-05-09,CUST-1204,Regular,West,Sports,Football,3959.75,5,10,COD,1.0,Cancelled,4.0,17818.88
+ORD-00102,2024-12-20,CUST-1154,New,Central,Beauty,Sunscreen,709.41,2,10,Net Banking,8.0,Delayed,5.0,1276.94
+ORD-00103,2024-08-16,CUST-1157,Regular,East,Electronics,Wireless Earbuds,2505.18,3,5,Credit Card,10.0,Delivered,5.0,7139.76
+ORD-00104,2024-03-22,CUST-1165,Regular,East,Books,Comic Book,422.48,6,20,COD,1.0,Cancelled,3.0,2027.9
+ORD-00105,2024-07-09,CUST-1029,New,South,Electronics,Smartwatch,1597.88,4,5,COD,8.0,Cancelled,2.0,6071.94
+ORD-00106,2024-08-16,CUST-1044,Premium,West,Beauty,Perfume,344.31,3,20,Credit Card,4.0,Cancelled,4.0,826.34
+ORD-00107,2024-10-08,CUST-1203,Regular,Central,Grocery,Almonds 500g,834.62,6,0,UPI,9.0,Delivered,4.0,5007.72
+ORD-00108,2024-07-03,CUST-1101,Premium,West,Fashion,Denim Jeans,939.19,4,0,Wallet,9.0,Delayed,5.0,3756.76
+ORD-00109,2024-06-11,CUST-1150,New,South,Grocery,Olive Oil 1L,1005.67,1,0,COD,2.0,Cancelled,5.0,1005.67
+ORD-00110,2024-06-04,CUST-1216,New,East,Grocery,Organic Rice 5kg,1014.53,5,0,UPI,3.0,Cancelled,3.0,5072.65
+ORD-00111,2024-09-30,CUST-1230,Premium,East,Sports,Cricket Bat,763.13,3,15,Wallet,2.0,Delivered,,1945.98
+ORD-00112,2024-10-22,CUST-1074,Premium,East,Grocery,Organic Rice 5kg,189.35,6,25,COD,5.0,Delivered,4.0,852.07
+ORD-00113,2024-01-31,CUST-1081,Premium,East,Grocery,Olive Oil 1L,427.18,1,20,COD,3.0,Delivered,5.0,341.74
+ORD-00114,2024-05-03,CUST-1157,Regular,South,Grocery,Almonds 500g,666.48,1,5,UPI,8.0,Delayed,2.0,633.16
+ORD-00115,2024-09-20,CUST-1061,New,Central,Sports,Cricket Bat,1002.39,2,10,Net Banking,8.0,Delivered,5.0,1804.3
+ORD-00116,2024-08-28,CUST-1103,Regular,North,Electronics,Bluetooth Speaker,-3373.45,6,20,COD,5.0,Delivered,,-16192.56
+ORD-00117,2024-02-07,CUST-1032,New,West,Sports,Cycling Gloves,1020.22,5,5,Net Banking,7.0,Delayed,,4846.05
+ORD-00118,2024-09-17,CUST-1038,Premium,Central,Sports,Cricket Bat,3093.37,2,15,UPI,7.0,Delayed,,5258.73
+ORD-00119,2024-06-02,CUST-1004,Regular,East,Sports,Cricket Bat,901.26,5,20,Credit Card,10.0,Delayed,5.0,3605.04
+ORD-00120,2024-12-18,CUST-1013,Premium,West,Sports,Cricket Bat,3247.99,6,25,UPI,1.0,Cancelled,5.0,14615.95
+ORD-00121,2024-12-14,CUST-1105,Premium,South,Books,Biography,730.95,4,0,COD,4.0,Cancelled,1.0,2923.8
+ORD-00122,2024-02-01,CUST-1044,Regular,Central,Grocery,Protein Bar Pack,1112.57,6,20,Net Banking,3.0,Cancelled,,5340.34
+ORD-00123,2024-05-22,CUST-1180,Regular,East,Home & Kitchen,LED Lamp,2232.75,2,0,COD,9.0,Delayed,4.0,4465.5
+ORD-00124,2024-10-05,CUST-1182,New,East,Sports,Cricket Bat,1364.82,5,20,COD,7.0,Cancelled,5.0,5459.28
+ORD-00125,2024-10-14,CUST-1057,Premium,South,Home & Kitchen,Storage Box,945.46,5,5,Credit Card,5.0,Delivered,3.0,4490.94
+ORD-00126,2024-03-11,CUST-1166,New,East,Beauty,Shampoo,1333.64,1,20,Net Banking,1.0,Delayed,,1066.91
+ORD-00127,2024-10-20,CUST-1214,New,North,Books,Fiction Novel,830.95,1,20,COD,,Delayed,,664.76
+ORD-00128,2024-10-17,CUST-1227,New,Central,Fashion,Running Shoes,2667.21,1,5,COD,10.0,Delayed,2.0,2533.85
+ORD-00129,2024-11-27,CUST-1156,Premium,West,Fashion,Cotton T-Shirt,-1192.85,6,10,COD,5.0,Cancelled,3.0,-6441.39
+ORD-00130,2024-03-12,CUST-1084,Regular,Central,Home & Kitchen,Non-stick Pan,1552.71,0,0,Wallet,8.0,Delivered,5.0,0.0
+ORD-00131,2024-03-01,CUST-1176,New,East,Home & Kitchen,LED Lamp,2501.5,1,20,Net Banking,8.0,Cancelled,4.0,2001.2
+ORD-00132,2024-08-20,CUST-1055,New,Central,Fashion,Denim Jeans,2884.87,4,0,Credit Card,10.0,Cancelled,5.0,11539.48
+ORD-00133,2024-02-27,CUST-1113,New,South,Beauty,Perfume,1311.21,1,15,Wallet,1.0,Delayed,,1114.53
+ORD-00134,2024-03-08,CUST-1101,Regular,North,Electronics,Smartwatch,3116.51,1,10,UPI,9.0,Cancelled,5.0,2804.86
+ORD-00135,2024-10-04,CUST-1164,Premium,West,Electronics,Wireless Earbuds,3003.23,6,0,Net Banking,1.0,Delayed,2.0,18019.38
+ORD-00136,2024-10-03,CUST-1213,New,North,Beauty,Sunscreen,769.82,6,20,Net Banking,3.0,Delayed,5.0,3695.14
+ORD-00137,2024-04-27,CUST-1207,Premium,West,Books,Biography,468.1,4,25,Wallet,4.0,Delivered,5.0,1404.3
+ORD-00138,2024-08-16,CUST-1198,New,South,Fashion,Denim Jeans,481.69,5,0,Wallet,10.0,Delayed,1.0,2408.45
+ORD-00139,2024-12-10,CUST-1015,Premium,Central,Fashion,Jacket,1161.04,5,25,UPI,6.0,Cancelled,4.0,4353.9
+ORD-00140,2024-11-25,CUST-1121,New,South,Books,Comic Book,566.89,1,5,Net Banking,7.0,Cancelled,,538.55
+ORD-00141,2024-08-01,CUST-1216,Regular,North,Fashion,Handbag,2769.8,5,10,Wallet,9.0,Cancelled,,12464.1
+ORD-00142,2024-11-05,CUST-1122,New,East,Grocery,Green Tea Pack,156.69,4,20,Net Banking,10.0,Delivered,1.0,501.41
+ORD-00143,2024-09-02,CUST-1166,Regular,East,Fashion,Denim Jeans,2897.61,1,20,Net Banking,4.0,Delayed,4.0,2318.09
+ORD-00144,2024-06-12,CUST-1141,Premium,Central,Sports,  Football  ,2024.22,6,10,COD,4.0,Delayed,5.0,10930.79
+ORD-00145,2024-05-05,CUST-1164,Premium,West,Fashion,Denim Jeans,1190.64,4,15,COD,8.0,Delivered,,4048.18
+ORD-00146,2024-09-07,CUST-1209,Premium,North,Books,Cookbook,276.95,6,15,Credit Card,3.0,Delayed,,1412.44
+ORD-00147,2024-04-21,CUST-1124,New,North,Fashion,Denim Jeans,483.51,2,0,Wallet,9.0,Cancelled,5.0,967.02
+ORD-00148,2024-10-01,CUST-1235,New,Central,Beauty,Face Serum,177.6,6,5,UPI,5.0,Delivered,1.0,1012.32
+ORD-00149,2024-07-22,CUST-1211,New,North,Fashion,Jacket,1721.43,3,5,Credit Card,2.0,Delayed,5.0,4906.08
+ORD-00150,2024-01-05,CUST-1024,Premium,North,Beauty,Sunscreen,1061.96,1,20,UPI,3.0,Delivered,2.0,849.57
+ORD-00151,2024-12-16,CUST-1150,New,West,Grocery,Protein Bar Pack,623.05,1,0,Credit Card,5.0,Delayed,,623.05
+ORD-00152,2024-10-03,CUST-1249,Regular,North,Fashion,Jacket,949.27,4,20,Credit Card,6.0,Delayed,5.0,3037.66
+ORD-00153,2024-07-22,CUST-1096,Regular,South,Fashion,Cotton T-Shirt,1219.6,5,15,Wallet,6.0,Cancelled,1.0,5183.3
+ORD-00154,2024-05-06,CUST-1092,New,North,Beauty,Face Serum,1424.08,3,25,Credit Card,2.0,Delayed,2.0,3204.18
+ORD-00155,2024-02-14,CUST-1023,Premium,Central,BEAUTY,Shampoo,1406.22,1,0,Net Banking,3.0,Delayed,5.0,1406.22
+ORD-00156,2024-10-13,CUST-1016,New,West,Electronics,Bluetooth Speaker,2951.81,1,20,Net Banking,4.0,Delayed,,2361.45
+ORD-00157,2024-05-06,CUST-1097,Regular,West,Home & Kitchen,Storage Box,2793.67,3,5,Net Banking,,Delayed,4.0,7961.96
+ORD-00158,2024-12-21,CUST-1125,Premium,South,Grocery,Protein Bar Pack,249.74,3,15,Net Banking,4.0,Delayed,5.0,636.84
+ORD-00159,2024-10-30,CUST-1112,Regular,North,Home & Kitchen,Storage Box,1436.3,5,0,COD,9.0,Cancelled,3.0,7181.5
+ORD-00160,2024-12-03,CUST-1129,Premium,West,Beauty,Lipstick,1195.0,2,5,Wallet,3.0,Delivered,5.0,2270.5
+ORD-00161,2024-11-22,CUST-1165,Premium,West,Grocery,Almonds 500g,871.8,5,15,Net Banking,2.0,Delayed,2.0,3705.15
+ORD-00162,2024-09-22,CUST-1088,New,West,Electronics,Wireless Earbuds,1312.75,2,15,Credit Card,9.0,Delayed,4.0,2231.67
+ORD-00163,2024-06-27,CUST-1178,Regular,East,Beauty,Face Serum,341.51,6,0,Credit Card,5.0,Delayed,5.0,2049.06
+ORD-00164,2024-02-25,CUST-1204,Regular,South,Electronics,Wireless Earbuds,917.44,3,20,UPI,3.0,Cancelled,4.0,2201.86
+ORD-00165,2024-04-11,CUST-1016,Premium,North,Books,Comic Book,446.69,6,15,Wallet,8.0,Delivered,5.0,2278.12
+ORD-00166,2024-12-09,CUST-1090,Regular,Central,Home & Kitchen,LED Lamp,890.49,1,5,UPI,8.0,Cancelled,,845.97
+ORD-00167,2024-12-10,CUST-1107,Premium,South,Books,Cookbook,839.01,5,0,Wallet,3.0,Delayed,5.0,4195.05
+ORD-00168,2024-11-26,CUST-1221,Regular,North,Beauty,Lipstick,953.01,5,20,COD,3.0,Delivered,,3812.04
+ORD-00169,2024-09-10,CUST-1194,New,East,Fashion,Handbag,2902.34,5,20,Credit Card,7.0,Delayed,5.0,11609.36
+ORD-00170,2024-09-10,CUST-1210,New,West,Fashion,Jacket,1079.41,4,15,Wallet,9.0,Delivered,,3669.99
+ORD-00171,2024-05-06,CUST-1198,New,South,Beauty,Face Serum,1364.38,6,25,Wallet,5.0,Cancelled,1.0,6139.71
+ORD-00172,2024-03-12,CUST-1250,Premium,East,Home & Kitchen,Cushion Cover,2306.5,2,15,Net Banking,4.0,Cancelled,4.0,3921.05
+ORD-00173,2024-02-18,CUST-1063,New,East,Home & Kitchen,Cushion Cover,3452.84,6,25,UPI,3.0,Cancelled,5.0,15537.78
+ORD-00174,2024-11-17,CUST-1071,Premium,East,Beauty,Sunscreen,384.58,6,5,COD,7.0,Delayed,5.0,2192.11
+ORD-00175,2024-08-22,CUST-1082,Regular,East,Home & Kitchen,Cushion Cover,258.04,6,0,Wallet,6.0,Cancelled,2.0,1548.24
+ORD-00176,2024-01-25,CUST-1116,New,West,Fashion,Jacket,2601.54,3,20,UPI,,Cancelled,2.0,6243.7
+ORD-00177,2024-12-01,CUST-1185,Premium,South,Fashion,Running Shoes,729.24,3,0,COD,6.0,Cancelled,4.0,2187.72
+ORD-00178,2024-03-08,CUST-1220,Regular,South,Electronics,Wireless Earbuds,805.65,4,0,COD,,Delivered,4.0,3222.6
+ORD-00179,2024-06-09,CUST-1036,New,Central,Fashion,Handbag,541.19,1,0,Wallet,6.0,Delivered,4.0,541.19
+ORD-00180,2024-11-17,CUST-1031,Premium,West,Sports,Dumbbell Set,1928.37,6,0,Net Banking,3.0,Delayed,5.0,11570.22
+ORD-00181,2024-05-07,CUST-1132,Premium,Central,Home & Kitchen,Blender,1055.31,6,0,UPI,9.0,Cancelled,4.0,6331.86
+ORD-00182,2024-07-16,CUST-1239,Regular,South,Beauty,Shampoo,1216.18,2,10,COD,2.0,Cancelled,4.0,2189.12
+ORD-00183,2024-08-29,CUST-1101,Premium,East,Beauty,Shampoo,1051.49,0,25,Wallet,2.0,Delayed,1.0,0.0
+ORD-00184,2024-11-11,CUST-1083,Regular,Central,Beauty,Sunscreen,286.01,5,15,Credit Card,3.0,Delayed,4.0,1215.54
+ORD-00185,2024-05-05,CUST-1044,New,North,Books,Comic Book,697.47,2,0,UPI,2.0,Cancelled,5.0,1394.94
+ORD-00186,2024-09-21,CUST-1230,New,East,Electronics,Smartphone Case,3381.35,3,15,COD,5.0,Delayed,3.0,8622.44
+ORD-00187,2024-02-09,CUST-1197,New,Central,Sports,Yoga Mat,1272.91,5,20,Credit Card,8.0,Delivered,5.0,5091.64
+ORD-00188,2024-01-24,CUST-1233,Premium,West,Books,Biography,151.93,1,0,UPI,8.0,Delayed,5.0,151.93
+ORD-00189,2024-02-09,CUST-1011,Regular,North,Fashion,Handbag,2772.81,3,5,COD,10.0,Delayed,5.0,7902.51
+ORD-00190,2024-01-05,CUST-1248,Regular,South,Grocery,Almonds 500g,460.03,5,10,Wallet,6.0,Delivered,4.0,2070.13
+ORD-00191,2024-10-04,CUST-1026,New,Central,Fashion,Cotton T-Shirt,2817.47,0,0,UPI,6.0,Delayed,1.0,0.0
+ORD-00192,2024-05-23,CUST-1249,Premium,North,Beauty,Face Serum,1754.72,2,20,Wallet,2.0,Delivered,1.0,2807.55
+ORD-00193,2024-10-30,CUST-1205,Regular,East,Sports,Dumbbell Set,2657.7,4,0,Net Banking,10.0,Delayed,1.0,10630.8
+ORD-00194,2024-10-26,CUST-1197,New,West,Home & Kitchen,Blender,492.73,2,0,Net Banking,2.0,Delayed,3.0,985.46
+ORD-00195,2024-12-26,CUST-1101,Premium,North,Home & Kitchen,Non-stick Pan,543.87,6,5,Net Banking,10.0,Delayed,1.0,3100.06
+ORD-00196,2024-08-19,CUST-1212,New,South,Grocery,  Green Tea Pack  ,134.19,4,25,UPI,9.0,Delayed,,402.57
+ORD-00197,2024-02-08,CUST-1207,Regular,North,Home & Kitchen,Non-stick Pan,2142.55,3,25,Credit Card,1.0,Delayed,2.0,4820.74
+ORD-00198,2024-07-21,CUST-1114,New,North,Electronics,Smartphone Case,5605.48,4,25,Wallet,8.0,Cancelled,1.0,16816.44
+ORD-00199,2024-10-08,CUST-1063,Premium,Central,Sports,Dumbbell Set,2694.93,4,10,Credit Card,8.0,Delayed,1.0,9701.75
+ORD-00200,2024-10-16,CUST-1199,Regular,North,Grocery,Almonds 500g,627.65,4,5,COD,9.0,Cancelled,5.0,2385.07
+ORD-00201,2024-05-06,CUST-1147,Regular,East,Home & Kitchen,Cushion Cover,3498.72,2,0,UPI,4.0,Delivered,4.0,6997.44
+ORD-00202,2024-07-02,CUST-1214,Regular,Central,Fashion,Jacket,1158.61,6,20,Net Banking,10.0,Delivered,1.0,5561.33
+ORD-00203,2024-04-22,CUST-1045,Regular,North,Beauty,Face Serum,298.92,2,15,Credit Card,1.0,Delivered,,508.16
+ORD-00204,2024-07-05,CUST-1249,New,West,Sports,Dumbbell Set,3165.16,5,25,COD,2.0,Cancelled,5.0,11869.35
+ORD-00205,2024-11-10,CUST-1045,Premium,North,Home & Kitchen,Blender,2548.34,5,20,Wallet,6.0,Delayed,4.0,10193.36
+ORD-00206,2024-11-09,CUST-1042,Premium,North,Grocery,Protein Bar Pack,135.62,5,5,Net Banking,4.0,Delayed,2.0,644.19
+ORD-00207,2024-06-28,CUST-1105,Regular,West,Electronics,Bluetooth Speaker,1890.36,6,0,Net Banking,5.0,Cancelled,2.0,11342.16
+ORD-00208,2024-12-17,CUST-1026,New,East,BEAUTY,Face Serum,1517.53,5,20,UPI,,Delayed,3.0,6070.12
+ORD-00209,2024-10-31,CUST-1013,New,East,Fashion,Cotton T-Shirt,1777.02,1,5,UPI,10.0,Delivered,5.0,1688.17
+ORD-00210,2024-05-15,CUST-1092,New,West,Beauty,Perfume,1341.36,6,15,Credit Card,5.0,Delayed,4.0,6840.94
+ORD-00211,2024-04-15,CUST-1229,Premium,East,Grocery,Protein Bar Pack,628.36,1,0,Credit Card,3.0,Cancelled,4.0,628.36
+ORD-00212,2024-04-05,CUST-1192,Premium,North,Sports,Football,984.06,4,5,Credit Card,8.0,Cancelled,1.0,3739.43
+ORD-00213,2024-10-10,CUST-1225,New,West,Home & Kitchen,Cushion Cover,1595.46,5,0,Net Banking,1.0,Delivered,5.0,7977.3
+ORD-00214,2024-10-19,CUST-1206,New,South,Beauty,Face Serum,978.47,5,25,Credit Card,10.0,Delayed,3.0,3669.26
+ORD-00215,2024-10-31,CUST-1083,Regular,Central,Electronics,Power Bank,1849.98,6,0,COD,5.0,Delivered,5.0,11099.88
+ORD-00216,2024-07-31,CUST-1199,New,East,Grocery,Protein Bar Pack,746.33,4,0,Wallet,3.0,Delayed,3.0,2985.32
+ORD-00217,2024-11-07,CUST-1101,Regular,South,Beauty,Shampoo,782.02,4,15,Credit Card,8.0,Cancelled,1.0,2658.87
+ORD-00218,2024-06-04,CUST-1076,Premium,West,Beauty,Shampoo,1630.1,1,5,Net Banking,5.0,Delayed,4.0,1548.59
+ORD-00219,2024-08-14,CUST-1040,New,East,Books,Comic Book,603.73,1,0,Wallet,4.0,Delayed,5.0,603.73
+ORD-00220,2024-04-08,CUST-1210,Regular,Central,Fashion,Jacket,2674.2,1,0,COD,4.0,Cancelled,1.0,2674.2
+ORD-00221,2024-08-16,CUST-1176,New,East,Electronics,Wireless Earbuds,2058.08,4,15,Credit Card,3.0,Delayed,5.0,6997.47
+ORD-00222,2024-04-23,CUST-1002,Regular,South,Electronics,Smartphone Case,5239.87,2,25,UPI,,Cancelled,4.0,7859.81
+ORD-00223,2024-06-05,CUST-1133,Premium,West,Grocery,Organic Rice 5kg,346.15,5,25,Wallet,5.0,Delivered,5.0,1298.06
+ORD-00224,2024-11-27,CUST-1220,Regular,East,Electronics,Smartwatch,5997.03,3,15,Net Banking,10.0,Delivered,4.0,15292.43
+ORD-00225,2024-11-03,CUST-1107,Regular,West,Fashion,Jacket,2366.78,1,25,Credit Card,7.0,Cancelled,5.0,1775.09
+ORD-00226,2024-12-31,CUST-1043,Premium,Central,Books,Biography,762.01,3,20,UPI,4.0,Delayed,,1828.82
+ORD-00227,2024-10-13,CUST-1227,Regular,East,Electronics,Power Bank,1465.31,3,20,Net Banking,3.0,Cancelled,5.0,3516.74
+ORD-00228,2024-11-20,CUST-1105,New,South,Home & Kitchen,Storage Box,3016.45,4,0,UPI,10.0,Delivered,2.0,12065.8
+ORD-00229,2024-06-10,CUST-1070,New,South,Home & Kitchen,  Storage Box  ,3458.37,4,0,Wallet,3.0,Delivered,2.0,13833.48
+ORD-00230,2024-08-07,CUST-1003,Regular,Central,Beauty,Face Serum,363.52,4,20,UPI,,Delivered,5.0,1163.26
+ORD-00231,2024-12-21,CUST-1076,Regular,West,Books,Fiction Novel,620.02,2,0,Wallet,6.0,Cancelled,4.0,1240.04
+ORD-00232,2024-06-24,CUST-1057,Premium,South,Sports,  Cricket Bat  ,1904.56,6,0,UPI,8.0,Cancelled,5.0,11427.36
+ORD-00233,2024-12-30,CUST-1169,New,North,ELECTRONICS,Smartwatch,3424.09,1,5,Credit Card,1.0,Cancelled,5.0,3252.89
+ORD-00234,2024-05-09,CUST-1133,Regular,Central,Electronics,Power Bank,3110.43,1,15,Wallet,,Cancelled,3.0,2643.87
+ORD-00235,2024-11-12,CUST-1133,New,East,Fashion,Handbag,2542.76,1,15,COD,2.0,Delayed,4.0,2161.35
+ORD-00236,2024-09-03,CUST-1038,New,Central,Fashion,Cotton T-Shirt,-1779.97,2,20,Credit Card,6.0,Cancelled,4.0,-2847.95
+ORD-00237,2024-08-21,CUST-1205,Premium,East,BOOKS,Fiction Novel,828.58,6,0,COD,5.0,Cancelled,4.0,4971.48
+ORD-00238,2024-03-11,CUST-1208,Regular,South,Electronics,Wireless Earbuds,5226.48,1,0,Credit Card,3.0,Delayed,5.0,5226.48
+ORD-00239,2024-09-01,CUST-1106,Premium,West,Beauty,Sunscreen,598.52,4,20,Wallet,7.0,Cancelled,3.0,1915.26
+ORD-00240,2024-01-15,CUST-1080,New,Central,BEAUTY,Lipstick,1158.68,3,15,Wallet,3.0,Cancelled,5.0,2954.63
+ORD-00241,2024-06-22,CUST-1169,Premium,West,Sports,Dumbbell Set,3918.21,6,25,UPI,9.0,Cancelled,,17631.94
+ORD-00242,2024-08-28,CUST-1057,Premium,West,Sports,Yoga Mat,343.09,2,15,COD,8.0,Delivered,3.0,583.25
+ORD-00243,2024-02-15,CUST-1009,Premium,Central,ELECTRONICS,Power Bank,3109.78,5,10,Credit Card,8.0,Delivered,5.0,13994.01
+ORD-00244,2024-09-17,CUST-1216,Regular,East,Grocery,Protein Bar Pack,1159.49,6,5,Wallet,9.0,Cancelled,4.0,6609.09
+ORD-00245,2024-08-19,CUST-1074,Premium,Central,Sports,Football,2951.63,3,20,Net Banking,2.0,Cancelled,2.0,7083.91
+ORD-00246,2024-07-28,CUST-1200,New,East,Electronics,Wireless Earbuds,5463.76,4,0,Credit Card,2.0,Delayed,4.0,21855.04
+ORD-00247,2024-12-03,CUST-1214,Premium,West,ELECTRONICS,Smartwatch,1440.74,4,10,Wallet,10.0,Delivered,,5186.66
+ORD-00248,2024-07-17,CUST-1070,Regular,East,Books,Biography,280.24,2,0,Net Banking,10.0,Delayed,5.0,560.48
+ORD-00249,2024-09-19,CUST-1159,Premium,East,Grocery,Green Tea Pack,252.0,5,20,Net Banking,5.0,Cancelled,,1008.0
+ORD-00250,2024-06-14,CUST-1228,Premium,East,Fashion,Denim Jeans,1660.51,6,20,COD,2.0,Delivered,5.0,7970.45
+ORD-00251,2024-12-09,CUST-1015,Premium,East,Sports,Yoga Mat,393.51,2,0,UPI,1.0,Cancelled,4.0,787.02
+ORD-00252,2024-12-11,CUST-1073,Premium,North,Electronics,Bluetooth Speaker,5032.94,1,15,COD,9.0,Delayed,4.0,4278.0
+ORD-00253,2024-05-08,CUST-1139,Premium,Central,Beauty,Shampoo,1743.62,1,0,UPI,4.0,Cancelled,5.0,1743.62
+ORD-00254,2024-04-05,CUST-1216,Regular,North,Fashion,Running Shoes,1511.8,6,0,Net Banking,3.0,Delayed,,9070.8
+ORD-00255,2024-01-27,CUST-1056,New,Central,Books,Self-Help Book,179.96,3,15,Credit Card,10.0,Cancelled,4.0,458.9
+ORD-00256,2024-06-27,CUST-1121,Premium,North,Fashion,Handbag,1766.32,4,0,Credit Card,4.0,Cancelled,4.0,7065.28
+ORD-00257,2024-11-14,CUST-1138,Premium,East,Home & Kitchen,Storage Box,1031.13,6,15,Credit Card,4.0,Cancelled,1.0,5258.76
+ORD-00258,2024-09-06,CUST-1244,Premium,Central,Grocery,Almonds 500g,665.74,5,10,Credit Card,1.0,Cancelled,4.0,2995.83
+ORD-00259,2024-12-16,CUST-1209,New,South,Electronics,Smartphone Case,4285.74,2,25,Credit Card,7.0,Delayed,2.0,6428.61
+ORD-00260,2024-04-01,CUST-1103,Regular,East,Books,Cookbook,178.41,1,0,Credit Card,5.0,Delayed,,178.41
+ORD-00261,2024-11-12,CUST-1077,Premium,North,Books,Fiction Novel,551.13,6,20,Net Banking,2.0,Delayed,1.0,2645.42
+ORD-00262,2024-03-21,CUST-1036,Regular,East,Beauty,Sunscreen,1506.5,1,10,Credit Card,9.0,Cancelled,4.0,1355.85
+ORD-00263,2024-10-20,CUST-1088,New,West,Grocery,Protein Bar Pack,255.51,1,0,Wallet,10.0,Delivered,5.0,255.51
+ORD-00264,2024-02-28,CUST-1074,Premium,North,Fashion,Denim Jeans,896.13,3,0,Net Banking,3.0,Delivered,1.0,2688.39
+ORD-00265,2024-03-06,CUST-1168,Regular,Central,Fashion,Jacket,1615.41,3,5,UPI,4.0,Cancelled,2.0,4603.92
+ORD-00266,2024-01-03,CUST-1173,Premium,East,Sports,Cricket Bat,3288.49,4,0,COD,6.0,Delayed,4.0,13153.96
+ORD-00267,2024-02-25,CUST-1226,Premium,North,Beauty,Shampoo,1428.37,4,15,Credit Card,3.0,Delivered,2.0,4856.46
+ORD-00268,2024-07-26,CUST-1198,New,East,Grocery,Protein Bar Pack,794.79,5,15,COD,10.0,Delivered,4.0,3377.86
+ORD-00269,2024-08-25,CUST-1157,Premium,South,Grocery,Protein Bar Pack,906.55,3,0,Wallet,,Delivered,,2719.65
+ORD-00270,2024-03-15,CUST-1171,New,Central,Beauty,Lipstick,445.59,5,20,Net Banking,8.0,Delayed,5.0,1782.36
+ORD-00271,2024-06-14,CUST-1096,Premium,West,Beauty,Sunscreen,1604.56,1,20,Net Banking,2.0,Cancelled,,1283.65
+ORD-00272,2024-09-21,CUST-1225,New,West,Books,  Fiction Novel  ,537.5,4,0,UPI,7.0,Delivered,5.0,2150.0
+ORD-00273,2024-04-05,CUST-1029,Regular,West,Electronics,Smartwatch,4146.08,2,0,COD,3.0,Delivered,5.0,8292.16
+ORD-00274,2024-05-04,CUST-1014,New,East,SPORTS,Dumbbell Set,2694.86,4,0,UPI,1.0,Cancelled,3.0,10779.44
+ORD-00275,2024-12-04,CUST-1105,Premium,South,Beauty,Perfume,1749.25,6,0,Wallet,5.0,Delivered,2.0,10495.5
+ORD-00276,2024-06-24,CUST-1129,Premium,West,Sports,Cycling Gloves,1278.73,6,20,UPI,8.0,Cancelled,2.0,6137.9
+ORD-00277,2024-01-20,CUST-1000,Premium,West,Electronics,Smartphone Case,3274.52,5,15,Wallet,9.0,Delayed,,13916.71
+ORD-00278,2024-09-03,CUST-1034,Regular,West,Home & Kitchen,Non-stick Pan,2517.34,4,0,UPI,7.0,Delivered,5.0,10069.36
+ORD-00279,2024-04-06,CUST-1080,Regular,East,Home & Kitchen,Cushion Cover,3099.49,4,5,Credit Card,,Delivered,1.0,11778.06
+ORD-00280,2024-10-16,CUST-1045,Regular,Central,Beauty,Perfume,568.49,5,10,Wallet,6.0,Delayed,4.0,2558.2
+ORD-00281,2024-03-11,CUST-1086,Premium,Central,Home & Kitchen,LED Lamp,2127.37,6,10,Credit Card,2.0,Delivered,4.0,11487.8
+ORD-00282,2024-11-03,CUST-1102,Premium,Central,BEAUTY,Face Serum,1477.21,2,10,Net Banking,7.0,Cancelled,2.0,2658.98
+ORD-00283,2024-09-10,CUST-1153,Premium,Central,Sports,Yoga Mat,3799.15,2,20,UPI,8.0,Cancelled,1.0,6078.64
+ORD-00284,2024-03-21,CUST-1188,Premium,North,Fashion,Cotton T-Shirt,1271.3,6,0,Credit Card,2.0,Cancelled,4.0,7627.8
+ORD-00285,2024-05-21,CUST-1143,New,Central,Home & Kitchen,Cushion Cover,3223.78,3,5,Net Banking,,Delayed,4.0,9187.77
+ORD-00286,2024-10-21,CUST-1117,Premium,West,Electronics,Smartwatch,5774.89,5,25,Wallet,5.0,Delivered,5.0,21655.84
+ORD-00287,2024-04-22,CUST-1073,New,West,Beauty,Face Serum,575.4,4,20,Net Banking,4.0,Delivered,5.0,1841.28
+ORD-00288,2024-10-20,CUST-1188,New,East,Sports,Dumbbell Set,2063.26,3,0,UPI,5.0,Delivered,3.0,6189.78
+ORD-00289,2024-02-24,CUST-1010,Regular,East,Fashion,Denim Jeans,2558.1,3,0,Wallet,2.0,Delayed,2.0,7674.3
+ORD-00290,2024-09-18,CUST-1138,New,Central,Beauty,Perfume,1583.47,4,0,Net Banking,5.0,Delayed,5.0,6333.88
+ORD-00291,2024-09-22,CUST-1156,Regular,South,Grocery,Green Tea Pack,602.92,0,20,Wallet,8.0,Delayed,5.0,0.0
+ORD-00292,2024-07-06,CUST-1115,New,Central,Fashion,Running Shoes,1572.63,5,5,UPI,3.0,Cancelled,5.0,7469.99
+ORD-00293,2024-04-30,CUST-1002,New,West,Books,Self-Help Book,760.64,6,5,COD,9.0,Delivered,5.0,4335.65
+ORD-00294,2024-09-06,CUST-1208,Regular,West,Grocery,Protein Bar Pack,687.38,3,25,Credit Card,5.0,Delayed,4.0,1546.61
+ORD-00295,2024-10-12,CUST-1147,Premium,Central,Books,Cookbook,-344.83,3,15,UPI,5.0,Delayed,5.0,-879.32
+ORD-00296,2024-08-16,CUST-1237,Regular,West,Home & Kitchen,LED Lamp,2437.88,4,25,Wallet,2.0,Cancelled,5.0,7313.64
+ORD-00297,2024-06-09,CUST-1240,Regular,Central,Beauty,Face Serum,280.53,3,0,Wallet,6.0,Delayed,4.0,841.59
+ORD-00298,2024-04-30,CUST-1013,New,West,Beauty,Lipstick,453.41,1,0,Wallet,5.0,Delivered,2.0,453.41
+ORD-00299,2024-07-18,CUST-1007,New,East,Electronics,Bluetooth Speaker,4014.13,1,20,Net Banking,5.0,Delayed,4.0,3211.3
+ORD-00300,2024-03-10,CUST-1163,Premium,Central,Beauty,Perfume,1692.51,5,10,Net Banking,9.0,Delayed,3.0,7616.29
+ORD-00301,2024-06-06,CUST-1088,Regular,West,Beauty,Perfume,524.76,1,10,Wallet,,Delivered,5.0,472.28
+ORD-00302,2024-01-05,CUST-1111,Regular,South,Books,Comic Book,860.22,4,5,UPI,7.0,Cancelled,4.0,3268.84
+ORD-00303,2024-02-10,CUST-1166,Premium,Central,Books,Comic Book,771.32,2,5,Net Banking,7.0,Delayed,4.0,1465.51
+ORD-00304,2024-11-22,CUST-1136,New,South,FASHION,Cotton T-Shirt,792.5,3,0,Credit Card,8.0,Delayed,5.0,2377.5
+ORD-00305,2024-04-29,CUST-1095,Regular,North,Home & Kitchen,Blender,-2574.39,6,0,Net Banking,2.0,Delivered,3.0,-15446.34
+ORD-00306,2024-10-05,CUST-1196,Premium,South,Grocery,Green Tea Pack,161.64,4,0,COD,8.0,Delayed,3.0,646.56
+ORD-00307,2024-02-18,CUST-1010,Premium,Central,Fashion,Cotton T-Shirt,837.79,6,25,Wallet,9.0,Delivered,4.0,3770.05
+ORD-00308,2024-01-27,CUST-1101,New,North,Home & Kitchen,Storage Box,2325.19,2,5,Credit Card,,Cancelled,2.0,4417.86
+ORD-00309,2024-02-15,CUST-1015,New,East,Grocery,Olive Oil 1L,857.25,2,5,UPI,4.0,Cancelled,3.0,1628.77
+ORD-00310,2024-10-12,CUST-1010,Regular,West,Sports,Yoga Mat,765.56,0,5,Wallet,6.0,Delayed,5.0,0.0
+ORD-00311,2024-06-27,CUST-1039,Regular,East,Sports,Football,1002.17,2,15,Net Banking,6.0,Cancelled,5.0,1703.69
+ORD-00312,2024-07-13,CUST-1247,Premium,West,Home & Kitchen,Storage Box,252.34,6,15,UPI,3.0,Cancelled,1.0,1286.93
+ORD-00313,2024-05-24,CUST-1033,New,North,Books,Comic Book,724.3,2,15,UPI,6.0,Delivered,5.0,1231.31
+ORD-00314,2024-07-17,CUST-1003,New,West,Beauty,Lipstick,312.94,5,20,Credit Card,8.0,Delayed,,1251.76
+ORD-00315,2024-07-07,CUST-1132,New,North,Grocery,Organic Rice 5kg,497.02,6,10,UPI,1.0,Cancelled,4.0,2683.91
+ORD-00316,2024-10-18,CUST-1117,Premium,West,Beauty,Lipstick,468.65,6,0,Credit Card,3.0,Delivered,,2811.9
+ORD-00317,2024-12-02,CUST-1083,Regular,West,Grocery,Green Tea Pack,704.96,5,5,COD,3.0,Cancelled,,3348.56
+ORD-00318,2024-07-11,CUST-1072,Premium,North,HOME & KITCHEN,Cushion Cover,1032.35,5,0,Wallet,9.0,Delivered,4.0,5161.75
+ORD-00319,2024-06-10,CUST-1117,Regular,South,Home & Kitchen,Non-stick Pan,1226.09,2,0,UPI,1.0,Delayed,4.0,2452.18
+ORD-00320,2024-06-02,CUST-1124,Premium,Central,Home & Kitchen,Cushion Cover,1062.03,3,25,Credit Card,2.0,Cancelled,5.0,2389.57
+ORD-00321,2024-02-10,CUST-1058,Premium,Central,Books,Cookbook,178.03,5,10,Credit Card,1.0,Cancelled,5.0,801.13
+ORD-00322,2024-06-12,CUST-1248,Regular,Central,Grocery,Olive Oil 1L,159.54,5,0,Wallet,9.0,Cancelled,3.0,797.7
+ORD-00323,2024-03-08,CUST-1111,Premium,South,Electronics,Smartphone Case,3046.07,4,0,UPI,6.0,Delayed,2.0,12184.28
+ORD-00324,2024-04-10,CUST-1022,New,West,Sports,Dumbbell Set,2105.09,6,15,COD,9.0,Delayed,,10735.96
+ORD-00325,2024-01-13,CUST-1011,New,South,Home & Kitchen,Blender,1292.4,5,20,Net Banking,5.0,Delivered,3.0,5169.6
+ORD-00326,2024-11-13,CUST-1053,Premium,Central,Grocery,Organic Rice 5kg,-223.61,1,0,UPI,3.0,Delivered,4.0,-223.61
+ORD-00327,2024-11-14,CUST-1051,Premium,Central,Sports,Cycling Gloves,3076.31,5,10,Net Banking,3.0,Delivered,1.0,13843.4
+ORD-00328,2024-12-05,CUST-1250,Premium,North,Beauty,Face Serum,-259.89,6,5,Net Banking,6.0,Delayed,2.0,-1481.37
+ORD-00329,2024-09-13,CUST-1100,Premium,South,Grocery,Protein Bar Pack,684.72,0,0,Credit Card,8.0,Delayed,,0.0
+ORD-00330,2024-09-13,CUST-1142,Regular,South,Books,Cookbook,416.53,3,0,UPI,5.0,Delayed,1.0,1249.59
+ORD-00331,2024-12-13,CUST-1114,Premium,South,Beauty,Lipstick,294.86,4,15,UPI,10.0,Cancelled,4.0,1002.52
+ORD-00332,2024-03-11,CUST-1144,New,East,Fashion,Jacket,1761.66,2,25,Credit Card,5.0,Cancelled,,2642.49
+ORD-00333,2024-01-16,CUST-1189,Regular,South,Sports,Yoga Mat,981.3,2,20,UPI,6.0,Delivered,5.0,1570.08
+ORD-00334,2024-05-16,CUST-1034,Premium,Central,Fashion,Denim Jeans,370.74,5,15,COD,,Cancelled,4.0,1575.64
+ORD-00335,2024-08-30,CUST-1105,New,South,BOOKS,Cookbook,287.98,4,10,UPI,3.0,Delivered,3.0,1036.73
+ORD-00336,2024-06-15,CUST-1100,Premium,Central,Fashion,Handbag,2641.25,4,20,Wallet,8.0,Cancelled,4.0,8452.0
+ORD-00337,2024-01-22,CUST-1246,New,South,Sports,Yoga Mat,2226.4,4,10,Net Banking,,Delayed,,8015.04
+ORD-00338,2024-03-26,CUST-1115,New,Central,Beauty,Shampoo,1426.57,3,10,Credit Card,7.0,Delivered,4.0,3851.74
+ORD-00339,2024-03-10,CUST-1225,Regular,North,Grocery,Protein Bar Pack,1131.63,0,15,Net Banking,7.0,Delayed,5.0,0.0
+ORD-00340,2024-02-28,CUST-1040,Regular,Central,Books,Self-Help Book,688.78,1,0,COD,8.0,Delivered,5.0,688.78
+ORD-00341,2024-12-03,CUST-1196,Regular,East,Grocery,Green Tea Pack,1103.48,5,25,UPI,3.0,Delivered,3.0,4138.05
+ORD-00342,2024-08-22,CUST-1121,Regular,West,Fashion,Denim Jeans,309.54,0,0,COD,8.0,Delivered,5.0,0.0
+ORD-00343,2024-11-13,CUST-1170,Premium,Central,SPORTS,Cycling Gloves,324.32,5,5,Net Banking,9.0,Delayed,4.0,1540.52
+ORD-00344,2024-12-10,CUST-1076,Regular,East,Electronics,Wireless Earbuds,1366.22,2,0,COD,5.0,Delivered,,2732.44
+ORD-00345,2024-08-29,CUST-1156,New,North,Grocery,Olive Oil 1L,1027.64,1,5,Wallet,3.0,Cancelled,2.0,976.26
+ORD-00346,2024-12-18,CUST-1237,New,Central,Books,Biography,890.39,4,20,Wallet,10.0,Delayed,4.0,2849.25
+ORD-00347,2024-04-29,CUST-1204,Premium,West,Sports,Football,-2122.27,0,15,COD,5.0,Delivered,4.0,-0.0
+ORD-00348,2024-01-06,CUST-1029,Premium,East,Home & Kitchen,LED Lamp,2071.35,6,0,Net Banking,4.0,Delayed,4.0,12428.1
+ORD-00349,2024-03-30,CUST-1034,Regular,South,Books,Biography,612.0,1,25,COD,4.0,Cancelled,5.0,459.0
+ORD-00350,2024-01-29,CUST-1084,Regular,North,HOME & KITCHEN,Storage Box,2797.96,4,20,UPI,9.0,Delayed,4.0,8953.47
+ORD-00351,2024-09-30,CUST-1181,New,East,Grocery,Organic Rice 5kg,473.07,4,20,COD,3.0,Delivered,5.0,1513.82
+ORD-00352,2024-09-25,CUST-1006,Regular,Central,Beauty,Lipstick,763.11,3,0,UPI,5.0,Delivered,3.0,2289.33
+ORD-00353,2024-06-16,CUST-1117,Regular,Central,Home & Kitchen,Storage Box,2630.43,5,5,Credit Card,3.0,Delivered,2.0,12494.54
+ORD-00354,2024-02-14,CUST-1194,Regular,South,Home & Kitchen,Non-stick Pan,2482.92,5,25,Net Banking,6.0,Delivered,5.0,9310.95
+ORD-00355,2024-08-13,CUST-1052,Premium,East,Fashion,Running Shoes,1046.95,3,25,Wallet,,Delayed,4.0,2355.64
+ORD-00356,2024-05-05,CUST-1231,Premium,North,Home & Kitchen,Blender,3315.65,3,15,Credit Card,3.0,Delayed,2.0,8454.91
+ORD-00357,2024-11-01,CUST-1136,New,West,Electronics,Wireless Earbuds,3017.62,2,20,Wallet,10.0,Delivered,5.0,4828.19
+ORD-00358,2024-11-25,CUST-1100,New,East,Electronics,Power Bank,1305.77,3,20,Net Banking,8.0,Delayed,5.0,3133.85
+ORD-00359,2024-09-02,CUST-1182,New,East,Beauty,Face Serum,257.85,1,5,Wallet,8.0,Cancelled,3.0,244.96
+ORD-00360,2024-07-30,CUST-1151,Regular,West,Electronics,Bluetooth Speaker,3570.28,4,15,Wallet,4.0,Delayed,4.0,12138.95
+ORD-00361,2024-12-30,CUST-1078,Regular,North,Sports,Dumbbell Set,940.42,6,0,Wallet,10.0,Delivered,5.0,5642.52
+ORD-00362,2024-09-10,CUST-1193,New,South,Books,Biography,728.51,4,5,COD,1.0,Cancelled,2.0,2768.34
+ORD-00363,2024-04-15,CUST-1234,Regular,North,Home & Kitchen,Storage Box,2250.61,4,0,Wallet,6.0,Delivered,4.0,9002.44
+ORD-00364,2024-05-30,CUST-1028,Regular,North,Sports,Cycling Gloves,1795.53,2,25,UPI,,Delayed,5.0,2693.3
+ORD-00365,2024-07-14,CUST-1215,Regular,West,Books,Biography,445.7,3,20,UPI,7.0,Delayed,5.0,1069.68
+ORD-00366,2024-01-09,CUST-1220,Regular,Central,Grocery,Green Tea Pack,247.71,1,20,COD,3.0,Cancelled,5.0,198.17
+ORD-00367,2024-08-18,CUST-1182,Premium,East,Fashion,Handbag,1675.42,5,25,COD,,Cancelled,5.0,6282.83
+ORD-00368,2024-09-04,CUST-1219,Regular,West,Sports,Cricket Bat,423.81,1,15,Wallet,6.0,Delivered,2.0,360.24
+ORD-00369,2024-12-05,CUST-1120,Regular,Central,Sports,Cycling Gloves,627.25,4,20,COD,2.0,Cancelled,,2007.2
+ORD-00370,2024-03-26,CUST-1013,Premium,East,Books,Cookbook,465.76,3,5,Wallet,1.0,Delivered,4.0,1327.42
+ORD-00371,2024-05-22,CUST-1232,Premium,South,Home & Kitchen,Storage Box,518.16,5,0,COD,5.0,Delayed,3.0,2590.8
+ORD-00372,2024-09-05,CUST-1039,Regular,West,Grocery,Green Tea Pack,387.38,6,0,COD,3.0,Delivered,,2324.28
+ORD-00373,2024-10-22,CUST-1077,Regular,Central,Books,Comic Book,694.5,2,0,UPI,6.0,Delayed,1.0,1389.0
+ORD-00374,2024-08-10,CUST-1010,New,Central,Books,Comic Book,505.94,2,15,Net Banking,1.0,Delayed,4.0,860.1
+ORD-00375,2024-02-20,CUST-1133,Regular,South,Sports,Cricket Bat,1539.38,3,25,Net Banking,5.0,Cancelled,5.0,3463.61
+ORD-00376,2024-02-20,CUST-1158,New,North,Electronics,Wireless Earbuds,5124.79,1,10,Wallet,9.0,Cancelled,2.0,4612.31
+ORD-00377,2024-12-28,CUST-1247,New,North,Grocery,Green Tea Pack,1145.54,6,0,UPI,2.0,Delayed,2.0,6873.24
+ORD-00378,2024-08-20,CUST-1070,New,West,Home & Kitchen,Storage Box,2396.55,1,20,COD,5.0,Delayed,5.0,1917.24
+ORD-00379,2024-08-13,CUST-1138,Regular,South,Electronics,Bluetooth Speaker,5769.15,3,0,Wallet,2.0,Cancelled,5.0,17307.45
+ORD-00380,2024-02-07,CUST-1009,Premium,West,Electronics,  Power Bank  ,4520.08,0,0,Net Banking,2.0,Delivered,4.0,0.0
+ORD-00381,2024-09-20,CUST-1000,Regular,West,Books,Cookbook,828.46,5,0,Credit Card,8.0,Cancelled,5.0,4142.3
+ORD-00382,2024-01-29,CUST-1165,New,South,Sports,Cricket Bat,1533.73,3,10,Wallet,2.0,Delivered,5.0,4141.07
+ORD-00383,2024-11-18,CUST-1184,Premium,South,Beauty,Lipstick,643.14,4,0,COD,6.0,Delayed,5.0,2572.56
+ORD-00384,2024-08-18,CUST-1167,Premium,Central,Electronics,Smartwatch,4145.72,4,15,COD,1.0,Cancelled,1.0,14095.45
+ORD-00385,2024-02-06,CUST-1166,New,North,Grocery,Protein Bar Pack,263.85,0,0,UPI,1.0,Cancelled,3.0,0.0
+ORD-00386,2024-11-08,CUST-1205,New,West,Electronics,Bluetooth Speaker,5067.84,1,10,Net Banking,3.0,Cancelled,2.0,4561.06
+ORD-00387,2024-10-06,CUST-1030,Regular,South,Books,Comic Book,393.18,6,15,COD,3.0,Delivered,5.0,2005.22
+ORD-00388,2024-10-24,CUST-1124,New,North,Books,  Cookbook  ,565.06,4,0,Credit Card,1.0,Delivered,3.0,2260.24
+ORD-00389,2024-08-31,CUST-1177,New,Central,Electronics,Smartwatch,5411.96,4,20,UPI,3.0,Cancelled,4.0,17318.27
+ORD-00390,2024-06-03,CUST-1092,Premium,Central,Beauty,Perfume,-1717.99,6,25,UPI,6.0,Delayed,5.0,-7730.95
+ORD-00391,2024-03-17,CUST-1111,Regular,East,Grocery,Green Tea Pack,404.07,2,0,Wallet,8.0,Delayed,5.0,808.14
+ORD-00392,2024-03-21,CUST-1107,New,East,Electronics,Wireless Earbuds,4650.17,5,0,UPI,1.0,Delivered,5.0,23250.85
+ORD-00393,2024-04-12,CUST-1156,Regular,South,Home & Kitchen,Blender,568.71,6,10,COD,7.0,Delayed,4.0,3071.03
+ORD-00394,2024-05-18,CUST-1117,Regular,South,Fashion,Handbag,2243.52,6,5,Net Banking,4.0,Delivered,5.0,12788.06
+ORD-00395,2024-03-28,CUST-1151,Regular,West,Home & Kitchen,Cushion Cover,759.56,6,15,Net Banking,10.0,Delivered,,3873.76
+ORD-00396,2024-06-16,CUST-1250,New,North,Books,  Comic Book  ,702.13,2,0,COD,7.0,Cancelled,4.0,1404.26
+ORD-00397,2024-09-02,CUST-1055,New,East,Grocery,Protein Bar Pack,136.98,5,10,Net Banking,2.0,Delivered,5.0,616.41
+ORD-00398,2024-03-23,CUST-1223,Regular,West,Books,Fiction Novel,161.95,6,5,Credit Card,8.0,Cancelled,1.0,923.11
+ORD-00399,2024-01-17,CUST-1175,New,Central,Electronics,Power Bank,5445.86,3,15,Net Banking,5.0,Cancelled,5.0,13886.94
+ORD-00400,2024-01-27,CUST-1017,Premium,South,Electronics,Smartwatch,5715.68,6,5,UPI,2.0,Delayed,5.0,32579.38
+ORD-00401,2024-10-24,CUST-1095,Regular,West,Fashion,Jacket,606.61,4,20,COD,4.0,Cancelled,4.0,1941.15
+ORD-00402,2024-09-29,CUST-1016,New,West,Sports,Yoga Mat,2039.61,5,20,Credit Card,5.0,Delivered,5.0,8158.44
+ORD-00403,2024-03-25,CUST-1075,Regular,Central,Beauty,Lipstick,625.81,1,0,UPI,5.0,Delayed,2.0,625.81
+ORD-00404,2024-05-29,CUST-1148,Regular,East,Home & Kitchen,Storage Box,-1692.55,6,0,COD,4.0,Cancelled,2.0,-10155.3
+ORD-00405,2024-06-04,CUST-1073,New,South,Books,Biography,781.43,4,10,Net Banking,10.0,Delayed,3.0,2813.15
+ORD-00406,2024-10-01,CUST-1060,New,North,Beauty,Lipstick,1170.74,2,20,Net Banking,5.0,Cancelled,3.0,1873.18
+ORD-00407,2024-10-14,CUST-1031,New,West,Fashion,Handbag,1003.1,2,0,COD,1.0,Delivered,5.0,2006.2
+ORD-00408,2024-09-16,CUST-1037,Premium,West,Beauty,Shampoo,407.49,6,15,Net Banking,6.0,Cancelled,4.0,2078.2
+ORD-00409,2024-10-09,CUST-1155,Premium,South,Electronics,Power Bank,-5480.91,2,20,Wallet,2.0,Cancelled,4.0,-8769.46
+ORD-00410,2024-08-16,CUST-1170,Regular,West,Fashion,Running Shoes,828.43,1,15,UPI,2.0,Cancelled,,704.17
+ORD-00411,2024-05-25,CUST-1189,Regular,West,Grocery,Olive Oil 1L,506.59,3,0,Net Banking,6.0,Delivered,5.0,1519.77
+ORD-00412,2024-10-27,CUST-1238,Premium,West,Grocery,Olive Oil 1L,901.47,4,0,Credit Card,10.0,Delivered,2.0,3605.88
+ORD-00413,2024-12-29,CUST-1077,Premium,East,Beauty,Shampoo,833.95,5,10,COD,10.0,Cancelled,3.0,3752.78
+ORD-00414,2024-05-14,CUST-1165,New,North,Books,Comic Book,318.39,1,0,Credit Card,5.0,Delayed,5.0,318.39
+ORD-00415,2024-09-03,CUST-1131,Premium,Central,Beauty,Face Serum,1138.17,3,15,Credit Card,10.0,Delayed,5.0,2902.33
+ORD-00416,2024-12-20,CUST-1074,Regular,Central,Fashion,Jacket,457.98,3,10,Credit Card,3.0,Cancelled,5.0,1236.55
+ORD-00417,2024-03-26,CUST-1176,Regular,North,Fashion,Denim Jeans,2364.66,5,25,Wallet,9.0,Cancelled,5.0,8867.47
+ORD-00418,2024-07-09,CUST-1048,Premium,Central,Home & Kitchen,Blender,291.92,5,5,Wallet,8.0,Cancelled,5.0,1386.62
+ORD-00419,2024-08-23,CUST-1209,Regular,Central,Books,Biography,676.7,1,10,Wallet,2.0,Delayed,2.0,609.03
+ORD-00420,2024-03-06,CUST-1028,New,North,Fashion,Running Shoes,377.65,1,0,COD,3.0,Delayed,4.0,377.65
+ORD-00421,2024-10-30,CUST-1200,New,Central,Electronics,Smartphone Case,1360.65,6,15,UPI,1.0,Cancelled,5.0,6939.32
+ORD-00422,2024-03-15,CUST-1017,New,Central,Fashion,Denim Jeans,2110.62,1,0,Credit Card,5.0,Cancelled,5.0,2110.62
+ORD-00423,2024-10-02,CUST-1047,Regular,North,Fashion,Denim Jeans,2903.51,2,25,UPI,1.0,Delayed,2.0,4355.27
+ORD-00424,2024-02-27,CUST-1184,New,North,Beauty,Sunscreen,503.55,2,10,Net Banking,6.0,Delayed,2.0,906.39
+ORD-00425,2024-06-08,CUST-1215,Regular,East,Electronics,Power Bank,2274.78,5,20,UPI,8.0,Delivered,4.0,9099.12
+ORD-00426,2024-09-24,CUST-1250,New,North,Books,Comic Book,654.07,4,10,Net Banking,2.0,Delivered,2.0,2354.65
+ORD-00427,2024-04-29,CUST-1164,Regular,East,Home & Kitchen,Blender,2183.62,4,0,COD,7.0,Cancelled,5.0,8734.48
+ORD-00428,2024-03-16,CUST-1188,New,North,Sports,Football,3953.84,5,5,COD,8.0,Cancelled,2.0,18780.74
+ORD-00429,2024-03-19,CUST-1075,Premium,West,Electronics,Smartphone Case,2789.69,6,5,COD,5.0,Cancelled,2.0,15901.23
+ORD-00430,2024-01-10,CUST-1009,New,South,Home & Kitchen,Cushion Cover,1366.75,5,15,Wallet,1.0,Cancelled,5.0,5808.69
+ORD-00431,2024-08-08,CUST-1175,Premium,Central,Grocery,Almonds 500g,1073.17,2,10,COD,3.0,Delayed,4.0,1931.71
+ORD-00432,2024-09-10,CUST-1011,New,East,Sports,Dumbbell Set,2174.73,4,5,Net Banking,10.0,Cancelled,5.0,8263.97
+ORD-00433,2024-07-13,CUST-1165,Regular,Central,Sports,Yoga Mat,3131.22,6,5,Credit Card,2.0,Cancelled,5.0,17847.95
+ORD-00434,2024-10-02,CUST-1178,Regular,Central,Electronics,Bluetooth Speaker,1395.25,2,0,Credit Card,6.0,Delayed,1.0,2790.5
+ORD-00435,2024-09-07,CUST-1093,Regular,South,Beauty,Perfume,794.0,5,0,COD,2.0,Cancelled,4.0,3970.0
+ORD-00436,2024-05-27,CUST-1183,Premium,North,Grocery,Organic Rice 5kg,1024.42,5,0,Wallet,5.0,Delayed,1.0,5122.1
+ORD-00437,2024-08-06,CUST-1138,Regular,South,Home & Kitchen,Non-stick Pan,2090.89,5,10,COD,4.0,Delayed,5.0,9409.0
+ORD-00438,2024-10-07,CUST-1210,Premium,West,Home & Kitchen,Cushion Cover,1924.95,6,25,Net Banking,3.0,Cancelled,1.0,8662.28
+ORD-00439,2024-11-16,CUST-1216,Regular,West,Sports,Cycling Gloves,3455.27,4,15,Net Banking,1.0,Delivered,,11747.92
+ORD-00440,2024-05-26,CUST-1204,Regular,West,Books,Self-Help Book,784.48,3,25,COD,3.0,Cancelled,4.0,1765.08
+ORD-00441,2024-03-22,CUST-1010,Premium,West,Beauty,Sunscreen,-1217.42,1,0,Credit Card,5.0,Delivered,3.0,-1217.42
+ORD-00442,2024-02-02,CUST-1060,New,Central,Grocery,Organic Rice 5kg,445.3,3,25,Wallet,7.0,Delivered,5.0,1001.93
+ORD-00443,2024-09-11,CUST-1206,Premium,South,Sports,Cycling Gloves,3813.8,5,5,COD,2.0,Delivered,4.0,18115.55
+ORD-00444,2024-07-28,CUST-1174,New,East,Fashion,Cotton T-Shirt,772.92,3,10,UPI,5.0,Delayed,1.0,2086.88
+ORD-00445,2024-11-06,CUST-1245,Premium,East,Beauty,Shampoo,1505.25,1,20,Credit Card,1.0,Cancelled,1.0,1204.2
+ORD-00446,2024-07-20,CUST-1234,Regular,East,Grocery,Green Tea Pack,1043.41,4,0,COD,5.0,Delivered,4.0,4173.64
+ORD-00447,2024-07-30,CUST-1090,Regular,Central,Home & Kitchen,Non-stick Pan,2925.39,4,10,Wallet,6.0,Cancelled,5.0,10531.4
+ORD-00448,2024-11-24,CUST-1021,New,South,Home & Kitchen,Storage Box,2509.43,1,20,UPI,3.0,Cancelled,5.0,2007.54
+ORD-00449,2024-06-12,CUST-1072,New,North,Books,Self-Help Book,785.22,6,10,COD,8.0,Delayed,5.0,4240.19
+ORD-00450,2024-01-11,CUST-1179,New,North,Fashion,Handbag,2666.25,5,0,COD,1.0,Cancelled,,13331.25
+ORD-00451,2024-03-28,CUST-1126,New,South,Beauty,Perfume,-579.26,1,5,UPI,10.0,Delivered,2.0,-550.3
+ORD-00452,2024-03-07,CUST-1104,New,North,Grocery,Almonds 500g,416.76,4,10,Net Banking,7.0,Delayed,4.0,1500.34
+ORD-00453,2024-10-25,CUST-1182,Regular,West,Fashion,Jacket,-1517.64,2,5,Wallet,8.0,Delayed,2.0,-2883.52
+ORD-00454,2024-04-30,CUST-1011,New,East,Electronics,Wireless Earbuds,3696.4,1,5,Wallet,8.0,Cancelled,5.0,3511.58
+ORD-00455,2024-03-08,CUST-1033,New,East,Beauty,Shampoo,1762.91,6,5,Wallet,9.0,Delayed,1.0,10048.59
+ORD-00456,2024-09-12,CUST-1067,Premium,East,Fashion,Running Shoes,615.47,1,0,COD,5.0,Delivered,5.0,615.47
+ORD-00457,2024-12-02,CUST-1119,Regular,North,Home & Kitchen,Storage Box,2731.95,2,15,COD,8.0,Delivered,1.0,4644.31
+ORD-00458,2024-08-22,CUST-1046,New,Central,Beauty,Shampoo,1781.55,5,10,Net Banking,8.0,Cancelled,2.0,8016.98
+ORD-00459,2024-10-19,CUST-1072,Premium,North,Books,Biography,309.3,1,15,COD,3.0,Delayed,5.0,262.91
+ORD-00460,2024-02-11,CUST-1167,Premium,West,SPORTS,Yoga Mat,3396.82,2,0,Net Banking,8.0,Cancelled,5.0,6793.64
+ORD-00461,2024-11-25,CUST-1065,New,South,Books,Biography,246.99,1,25,COD,5.0,Delivered,5.0,185.24
+ORD-00462,2024-11-27,CUST-1154,New,East,Electronics,Smartphone Case,1647.29,4,5,Credit Card,3.0,Delayed,2.0,6259.7
+ORD-00463,2024-05-17,CUST-1023,New,Central,Sports,Dumbbell Set,2111.61,4,10,Net Banking,10.0,Delayed,5.0,7601.8
+ORD-00464,2024-09-10,CUST-1032,Premium,East,Books,Self-Help Book,635.71,6,0,UPI,9.0,Cancelled,,3814.26
+ORD-00465,2024-01-24,CUST-1090,Regular,Central,Beauty,Shampoo,1088.08,5,0,Credit Card,9.0,Cancelled,2.0,5440.4
+ORD-00466,2024-04-03,CUST-1171,Regular,Central,Electronics,Wireless Earbuds,4650.68,4,0,Net Banking,7.0,Delayed,1.0,18602.72
+ORD-00467,2024-11-05,CUST-1117,Premium,West,GROCERY,Green Tea Pack,332.18,0,20,Wallet,5.0,Cancelled,2.0,0.0
+ORD-00468,2024-12-19,CUST-1048,New,South,Beauty,Shampoo,1170.52,5,5,COD,7.0,Cancelled,4.0,5559.97
+ORD-00469,2024-10-02,CUST-1039,Premium,West,FASHION,Denim Jeans,1476.63,6,25,COD,4.0,Delayed,2.0,6644.84
+ORD-00470,2024-10-18,CUST-1126,Premium,Central,Electronics,Power Bank,3843.18,2,5,Wallet,7.0,Cancelled,1.0,7302.04
+ORD-00471,2024-09-19,CUST-1068,Premium,West,Sports,Cricket Bat,436.96,4,10,COD,,Delivered,5.0,1573.06
+ORD-00472,2024-12-23,CUST-1150,Premium,East,Beauty,Perfume,1699.29,3,10,Wallet,7.0,Cancelled,1.0,4588.08
+ORD-00473,2024-12-30,CUST-1216,New,Central,Books,Comic Book,248.37,3,20,UPI,7.0,Delayed,5.0,596.09
+ORD-00474,2024-04-12,CUST-1012,New,East,Books,Fiction Novel,650.29,2,0,Net Banking,3.0,Delayed,5.0,1300.58
+ORD-00475,2024-02-02,CUST-1200,Regular,North,Books,Self-Help Book,281.04,5,0,Wallet,6.0,Delayed,5.0,1405.2
+ORD-00476,2024-01-26,CUST-1219,New,Central,Fashion,Jacket,1931.58,1,20,Credit Card,8.0,Cancelled,5.0,1545.26
+ORD-00477,2024-03-21,CUST-1209,New,North,Electronics,Smartphone Case,4075.62,2,5,UPI,5.0,Delayed,5.0,7743.68
+ORD-00478,2024-05-26,CUST-1038,Premium,West,Beauty,Face Serum,554.77,4,5,UPI,9.0,Delivered,3.0,2108.13
+ORD-00479,2024-09-21,CUST-1086,Regular,West,Grocery,Olive Oil 1L,554.75,4,10,UPI,6.0,Delayed,1.0,1997.1
+ORD-00480,2024-03-18,CUST-1107,Regular,Central,Electronics,Power Bank,4747.8,6,20,Net Banking,10.0,Cancelled,1.0,22789.44
+ORD-00481,2024-05-23,CUST-1166,Regular,East,Books,Cookbook,831.92,1,25,COD,9.0,Delivered,3.0,623.94
+ORD-00482,2024-03-05,CUST-1040,New,North,Home & Kitchen,Non-stick Pan,370.15,3,10,Wallet,9.0,Cancelled,,999.4
+ORD-00483,2024-08-04,CUST-1193,Premium,North,Home & Kitchen,Blender,2954.74,3,20,COD,9.0,Delayed,2.0,7091.38
+ORD-00484,2024-10-24,CUST-1146,Premium,South,Sports,Yoga Mat,1976.64,2,25,COD,10.0,Cancelled,,2964.96
+ORD-00485,2024-04-08,CUST-1227,New,West,Books,Self-Help Book,228.92,5,15,UPI,6.0,Delayed,5.0,972.91
+ORD-00486,2024-10-13,CUST-1242,Regular,West,Electronics,Bluetooth Speaker,4319.48,4,15,UPI,9.0,Delivered,5.0,14686.23
+ORD-00487,2024-12-26,CUST-1094,New,Central,Sports,Dumbbell Set,2093.63,4,0,COD,9.0,Delivered,,8374.52
+ORD-00488,2024-03-19,CUST-1200,Premium,West,ELECTRONICS,Bluetooth Speaker,3773.18,1,15,Credit Card,2.0,Delayed,5.0,3207.2
+ORD-00489,2024-01-02,CUST-1230,Regular,West,Home & Kitchen,Blender,845.0,6,10,COD,2.0,Cancelled,,4563.0
+ORD-00490,2024-11-21,CUST-1159,Regular,West,Grocery,Protein Bar Pack,246.09,2,15,UPI,8.0,Delayed,5.0,418.35
+ORD-00491,2024-05-22,CUST-1031,Premium,Central,Home & Kitchen,Cushion Cover,398.91,6,10,Credit Card,2.0,Delivered,3.0,2154.11
+ORD-00492,2024-09-24,CUST-1070,New,South,Sports,Cycling Gloves,2434.37,0,15,Wallet,4.0,Delayed,5.0,0.0
+ORD-00493,2024-01-24,CUST-1023,New,North,Electronics,Smartwatch,3955.65,4,15,Wallet,,Delivered,1.0,13449.21
+ORD-00494,2024-06-06,CUST-1025,Regular,South,Home & Kitchen,Blender,843.67,1,0,COD,7.0,Delayed,3.0,843.67
+ORD-00495,2024-04-13,CUST-1118,Premium,West,Home & Kitchen,Storage Box,3310.13,1,0,Credit Card,4.0,Delayed,4.0,3310.13
+ORD-00496,2024-10-10,CUST-1021,Premium,Central,Electronics,Power Bank,4094.41,1,5,UPI,10.0,Delivered,2.0,3889.69
+ORD-00497,2024-08-04,CUST-1042,New,North,Home & Kitchen,Cushion Cover,3452.25,2,15,COD,9.0,Delayed,5.0,5868.82
+ORD-00498,2024-11-19,CUST-1178,New,South,Sports,Cricket Bat,3406.1,4,5,Wallet,4.0,Delayed,,12943.18
+ORD-00499,2024-06-24,CUST-1084,New,South,Beauty,Lipstick,1157.23,3,20,Credit Card,5.0,Cancelled,5.0,2777.35
+ORD-00500,2024-07-30,CUST-1007,Premium,West,Beauty,Face Serum,1637.38,6,0,Credit Card,9.0,Delayed,5.0,9824.28
+ORD-00501,2024-03-31,CUST-1071,Premium,East,Grocery,  Olive Oil 1L  ,1010.21,3,10,UPI,1.0,Delivered,2.0,2727.57
+ORD-00502,2024-04-29,CUST-1210,Premium,West,Grocery,  Protein Bar Pack  ,787.76,6,0,Credit Card,8.0,Delayed,5.0,4726.56
+ORD-00503,2024-12-03,CUST-1058,Premium,East,Sports,Cycling Gloves,2127.84,5,0,UPI,10.0,Cancelled,3.0,10639.2
+ORD-00504,2024-08-20,CUST-1104,Regular,North,Electronics,Smartwatch,3995.17,6,15,Wallet,1.0,Delayed,5.0,20375.37
+ORD-00505,2024-04-24,CUST-1225,Premium,North,Beauty,Shampoo,1003.47,1,20,UPI,1.0,Cancelled,4.0,802.78
+ORD-00506,2024-06-17,CUST-1160,Regular,East,Beauty,Face Serum,1663.04,2,0,UPI,5.0,Delivered,2.0,3326.08
+ORD-00507,2024-06-19,CUST-1148,New,North,Beauty,Lipstick,1732.02,1,25,Credit Card,9.0,Delivered,4.0,1299.01
+ORD-00508,2024-03-06,CUST-1013,Regular,West,Beauty,Shampoo,1618.64,6,0,COD,1.0,Delivered,5.0,9711.84
+ORD-00509,2024-12-03,CUST-1166,Premium,North,Sports,Football,1162.51,5,25,COD,10.0,Cancelled,1.0,4359.41
+ORD-00510,2024-10-31,CUST-1158,Regular,South,Home & Kitchen,Cushion Cover,875.56,1,0,UPI,2.0,Delivered,4.0,875.56
+ORD-00511,2024-08-11,CUST-1087,Regular,East,Grocery,Organic Rice 5kg,166.54,3,15,Credit Card,9.0,Cancelled,5.0,424.68
+ORD-00512,2024-10-13,CUST-1048,Premium,West,Sports,Dumbbell Set,512.08,5,25,COD,1.0,Cancelled,5.0,1920.3
+ORD-00513,2024-11-11,CUST-1235,New,South,Books,Cookbook,789.01,5,5,UPI,5.0,Delayed,5.0,3747.8
+ORD-00514,2024-06-18,CUST-1142,New,South,SPORTS,Dumbbell Set,1184.37,6,25,Net Banking,,Delayed,4.0,5329.66
+ORD-00515,2024-01-16,CUST-1062,New,South,Fashion,Jacket,2764.31,3,0,Credit Card,4.0,Delivered,4.0,8292.93
+ORD-00516,2024-12-12,CUST-1094,Regular,South,Grocery,Almonds 500g,1101.71,1,25,Wallet,3.0,Cancelled,5.0,826.28
+ORD-00517,2024-04-07,CUST-1011,Premium,Central,Beauty,Face Serum,345.51,2,25,UPI,4.0,Cancelled,,518.26
+ORD-00518,2024-05-23,CUST-1169,Premium,North,Home & Kitchen,Blender,1314.96,1,20,UPI,3.0,Cancelled,,1051.97
+ORD-00519,2024-04-01,CUST-1163,Premium,North,Beauty,Perfume,767.54,5,10,UPI,6.0,Delivered,5.0,3453.93
+ORD-00520,2024-06-05,CUST-1021,Regular,West,Fashion,Handbag,2630.55,4,0,Wallet,7.0,Delayed,5.0,10522.2
+ORD-00521,2024-06-21,CUST-1045,Regular,South,Fashion,Jacket,411.09,5,15,Net Banking,7.0,Cancelled,5.0,1747.13
+ORD-00522,2024-09-13,CUST-1009,Premium,South,Electronics,Bluetooth Speaker,5487.67,3,25,Net Banking,9.0,Delivered,,12347.26
+ORD-00523,2024-12-15,CUST-1233,Regular,North,Books,Cookbook,337.52,6,25,Net Banking,5.0,Delayed,4.0,1518.84
+ORD-00524,2024-10-23,CUST-1185,Premium,South,Grocery,Almonds 500g,961.44,4,10,COD,1.0,Delivered,5.0,3461.18
+ORD-00525,2024-08-24,CUST-1115,Premium,North,Sports,Cycling Gloves,3208.11,4,20,Net Banking,6.0,Delivered,2.0,10265.95
+ORD-00526,2024-09-12,CUST-1076,Regular,Central,Sports,Dumbbell Set,1430.62,6,0,Credit Card,6.0,Cancelled,5.0,8583.72
+ORD-00527,2024-10-17,CUST-1027,Regular,Central,Grocery,Organic Rice 5kg,1114.36,2,5,COD,10.0,Cancelled,5.0,2117.28
+ORD-00528,2024-03-31,CUST-1074,Premium,Central,Home & Kitchen,Non-stick Pan,-807.13,6,15,Credit Card,1.0,Delayed,5.0,-4116.36
+ORD-00529,2024-07-29,CUST-1231,New,South,Electronics,Bluetooth Speaker,3496.36,2,5,UPI,7.0,Delayed,3.0,6643.08
+ORD-00530,2024-10-27,CUST-1211,Regular,Central,Beauty,Sunscreen,411.99,5,5,UPI,4.0,Cancelled,,1956.95
+ORD-00531,2024-10-21,CUST-1076,Regular,Central,Home & Kitchen,Cushion Cover,3107.53,4,10,UPI,1.0,Delayed,2.0,11187.11
+ORD-00532,2024-08-22,CUST-1040,Regular,Central,FASHION,Denim Jeans,2729.9,6,10,Net Banking,7.0,Cancelled,3.0,14741.46
+ORD-00533,2024-10-10,CUST-1064,New,Central,Electronics,Smartphone Case,5525.43,4,25,Credit Card,2.0,Delayed,5.0,16576.29
+ORD-00534,2024-08-24,CUST-1234,New,East,ELECTRONICS,Wireless Earbuds,4122.11,6,20,COD,7.0,Delayed,5.0,19786.13
+ORD-00535,2024-12-31,CUST-1045,Regular,North,Beauty,Face Serum,286.21,6,0,Wallet,8.0,Cancelled,3.0,1717.26
+ORD-00536,2024-05-19,CUST-1178,New,Central,Beauty,Lipstick,278.02,1,20,Credit Card,,Delayed,5.0,222.42
+ORD-00537,2024-01-25,CUST-1003,Regular,South,Books,Cookbook,482.99,5,0,Credit Card,7.0,Delivered,4.0,2414.95
+ORD-00538,2024-09-19,CUST-1109,New,South,Electronics,Smartphone Case,4564.86,1,10,UPI,2.0,Delivered,5.0,4108.37
+ORD-00539,2024-06-10,CUST-1011,New,South,Home & Kitchen,LED Lamp,814.27,4,20,COD,1.0,Delayed,5.0,2605.66
+ORD-00540,2024-10-01,CUST-1236,Premium,South,Grocery,Protein Bar Pack,649.53,1,20,Net Banking,10.0,Delivered,3.0,519.62
+ORD-00541,2024-02-04,CUST-1150,Premium,North,Books,Cookbook,883.52,6,10,UPI,6.0,Delivered,1.0,4771.01
+ORD-00542,2024-05-04,CUST-1009,New,Central,Sports,Yoga Mat,1442.74,6,10,COD,10.0,Cancelled,2.0,7790.8
+ORD-00543,2024-01-21,CUST-1062,New,Central,Home & Kitchen,Blender,1153.91,6,25,Credit Card,,Cancelled,5.0,5192.6
+ORD-00544,2024-06-13,CUST-1036,New,South,Fashion,Denim Jeans,1941.77,4,15,Credit Card,3.0,Delivered,5.0,6602.02
+ORD-00545,2024-09-16,CUST-1063,Regular,East,Sports,Cycling Gloves,3375.52,2,0,Wallet,2.0,Delayed,5.0,6751.04
+ORD-00546,2024-07-03,CUST-1209,Regular,North,Books,Self-Help Book,353.9,4,0,COD,7.0,Delayed,5.0,1415.6
+ORD-00547,2024-10-02,CUST-1155,Regular,North,Grocery,Organic Rice 5kg,934.74,3,15,Net Banking,3.0,Delivered,,2383.59
+ORD-00548,2024-01-07,CUST-1125,Regular,Central,Books,Comic Book,296.79,2,0,Credit Card,9.0,Delayed,5.0,593.58
+ORD-00549,2024-04-09,CUST-1094,Premium,North,Electronics,Wireless Earbuds,2801.1,5,0,COD,7.0,Delayed,4.0,14005.5
+ORD-00550,2024-07-04,CUST-1243,Premium,South,Books,Self-Help Book,331.76,1,25,Credit Card,1.0,Delivered,3.0,248.82
+ORD-00551,2024-12-27,CUST-1077,Premium,Central,Grocery,Organic Rice 5kg,808.84,4,10,COD,10.0,Cancelled,2.0,2911.82
+ORD-00552,2024-02-15,CUST-1001,New,West,Home & Kitchen,Storage Box,2695.5,6,25,Credit Card,2.0,Delivered,5.0,12129.75
+ORD-00553,2024-08-08,CUST-1115,Premium,South,Electronics,Power Bank,3529.8,6,5,UPI,3.0,Delivered,3.0,20119.86
+ORD-00554,2024-07-28,CUST-1087,New,Central,Electronics,Smartphone Case,5007.73,2,5,UPI,8.0,Delayed,2.0,9514.69
+ORD-00555,2024-01-04,CUST-1194,Regular,West,Beauty,Face Serum,165.69,3,25,COD,,Delayed,1.0,372.8
+ORD-00556,2024-06-10,CUST-1025,New,West,Sports,Football,1545.24,6,5,COD,4.0,Cancelled,5.0,8807.87
+ORD-00557,2024-09-28,CUST-1048,New,East,Grocery,Green Tea Pack,128.25,1,25,Credit Card,5.0,Cancelled,4.0,96.19
+ORD-00558,2024-12-13,CUST-1238,Regular,North,Home & Kitchen,Non-stick Pan,3401.19,6,5,COD,8.0,Delayed,4.0,19386.78
+ORD-00559,2024-09-15,CUST-1119,New,West,Sports,Dumbbell Set,2934.19,5,15,Credit Card,1.0,Delayed,3.0,12470.31
+ORD-00560,2024-12-03,CUST-1196,Regular,South,Books,Biography,330.68,2,0,Net Banking,2.0,Cancelled,2.0,661.36
+ORD-00561,2024-09-08,CUST-1096,Premium,West,Beauty,Face Serum,1248.04,5,20,Wallet,2.0,Delayed,5.0,4992.16
+ORD-00562,2024-02-14,CUST-1032,Regular,West,Grocery,Green Tea Pack,345.91,1,5,Wallet,2.0,Cancelled,2.0,328.61
+ORD-00563,2024-07-17,CUST-1151,New,North,Electronics,Bluetooth Speaker,1121.8,5,0,COD,7.0,Delivered,5.0,5609.0
+ORD-00564,2024-04-22,CUST-1008,Premium,East,Sports,Football,1468.93,3,25,Net Banking,8.0,Cancelled,5.0,3305.09
+ORD-00565,2024-09-01,CUST-1183,New,South,Books,Fiction Novel,355.09,6,15,Credit Card,4.0,Delivered,5.0,1810.96
+ORD-00566,2024-12-03,CUST-1100,New,Central,Grocery,Olive Oil 1L,900.14,3,25,Net Banking,3.0,Delayed,1.0,2025.32
+ORD-00567,2024-02-19,CUST-1117,Premium,South,Books,Self-Help Book,675.83,5,10,Wallet,3.0,Delivered,5.0,3041.24
+ORD-00568,2024-04-21,CUST-1096,Regular,South,Beauty,Sunscreen,630.28,2,0,Credit Card,4.0,Delivered,1.0,1260.56
+ORD-00569,2024-09-20,CUST-1125,Regular,Central,HOME & KITCHEN,Storage Box,833.81,1,0,UPI,6.0,Cancelled,5.0,833.81
+ORD-00570,2024-02-15,CUST-1125,Premium,Central,Books,Comic Book,731.89,6,20,UPI,8.0,Delivered,5.0,3513.07
+ORD-00571,2024-12-21,CUST-1083,New,Central,Sports,Cycling Gloves,3953.19,4,5,UPI,2.0,Delayed,3.0,15022.12
+ORD-00572,2024-09-28,CUST-1192,New,North,Grocery,Organic Rice 5kg,533.18,5,25,UPI,8.0,Cancelled,2.0,1999.42
+ORD-00573,2024-06-09,CUST-1008,New,North,Books,Self-Help Book,153.99,4,25,Wallet,2.0,Delayed,1.0,461.97
+ORD-00574,2024-05-07,CUST-1147,Regular,East,Home & Kitchen,Cushion Cover,807.71,6,0,Wallet,5.0,Delayed,1.0,4846.26
+ORD-00575,2024-12-05,CUST-1141,New,Central,Sports,Cycling Gloves,2189.18,6,0,Net Banking,1.0,Delayed,4.0,13135.08
+ORD-00576,2024-05-13,CUST-1137,New,North,Fashion,Jacket,1439.44,5,5,Net Banking,7.0,Cancelled,3.0,6837.34
+ORD-00577,2024-11-27,CUST-1154,New,North,Books,Self-Help Book,685.83,5,20,Net Banking,9.0,Delivered,3.0,2743.32
+ORD-00578,2024-06-17,CUST-1025,Regular,South,Sports,Yoga Mat,2830.72,4,0,COD,2.0,Delivered,5.0,11322.88
+ORD-00579,2024-10-28,CUST-1229,New,South,Grocery,Organic Rice 5kg,293.3,6,5,Net Banking,8.0,Delayed,2.0,1671.81
+ORD-00580,2024-09-29,CUST-1032,New,West,Fashion,Running Shoes,2476.43,6,25,Wallet,,Cancelled,5.0,11143.93
+ORD-00581,2024-12-28,CUST-1070,Regular,Central,Home & Kitchen,Non-stick Pan,3234.94,6,5,UPI,4.0,Delayed,5.0,18439.16
+ORD-00582,2024-06-09,CUST-1073,Premium,West,Books,Fiction Novel,860.59,4,25,Credit Card,2.0,Delayed,2.0,2581.77
+ORD-00583,2024-09-11,CUST-1182,Regular,Central,Books,Biography,849.33,2,10,Net Banking,9.0,Delivered,,1528.79
+ORD-00584,2024-08-17,CUST-1013,Regular,West,Books,Biography,663.06,1,15,COD,3.0,Delivered,,563.6
+ORD-00585,2024-10-03,CUST-1055,Regular,Central,Home & Kitchen,Non-stick Pan,1348.37,6,0,Credit Card,2.0,Delayed,4.0,8090.22
+ORD-00586,2024-08-23,CUST-1025,Regular,West,Sports,Football,512.74,0,15,UPI,6.0,Delivered,4.0,0.0
+ORD-00587,2024-09-06,CUST-1228,New,Central,Sports,Cycling Gloves,3624.49,4,0,Net Banking,1.0,Delivered,3.0,14497.96
+ORD-00588,2024-08-10,CUST-1107,Premium,East,Beauty,Sunscreen,417.03,3,20,Credit Card,1.0,Delivered,5.0,1000.87
+ORD-00589,2024-03-01,CUST-1225,Regular,Central,Books,Self-Help Book,861.28,6,5,COD,7.0,Delivered,5.0,4909.3
+ORD-00590,2024-06-25,CUST-1188,New,West,Electronics,Wireless Earbuds,4922.11,2,0,COD,9.0,Delayed,1.0,9844.22
+ORD-00591,2024-11-12,CUST-1170,Regular,South,Home & Kitchen,Storage Box,518.5,4,0,COD,3.0,Cancelled,,2074.0
+ORD-00592,2024-04-02,CUST-1109,New,Central,Grocery,Organic Rice 5kg,871.26,5,15,UPI,,Delivered,3.0,3702.86
+ORD-00593,2024-12-24,CUST-1068,Regular,East,Grocery,Organic Rice 5kg,518.39,5,5,Net Banking,4.0,Cancelled,4.0,2462.35
+ORD-00594,2024-01-21,CUST-1110,New,East,Beauty,Lipstick,677.74,1,0,COD,1.0,Delayed,1.0,677.74
+ORD-00595,2024-12-15,CUST-1095,New,East,Home & Kitchen,LED Lamp,612.47,6,0,UPI,9.0,Cancelled,3.0,3674.82
+ORD-00596,2024-11-04,CUST-1236,New,North,Beauty,Face Serum,1613.87,2,20,Wallet,2.0,Cancelled,1.0,2582.19
+ORD-00597,2024-03-19,CUST-1232,Premium,East,Home & Kitchen,LED Lamp,2607.39,2,15,Net Banking,1.0,Delayed,3.0,4432.56
+ORD-00598,2024-08-02,CUST-1244,Premium,North,Books,Fiction Novel,833.14,1,10,UPI,9.0,Cancelled,,749.83
+ORD-00599,2024-09-19,CUST-1052,New,North,Grocery,Olive Oil 1L,644.53,5,25,UPI,2.0,Cancelled,3.0,2416.99
+ORD-00600,2024-09-14,CUST-1011,Premium,South,Fashion,Jacket,2181.15,5,10,Net Banking,9.0,Delivered,4.0,9815.18
+ORD-00111,2024-09-30,CUST-1230,Premium,East,Sports,Cricket Bat,763.13,3,15,Wallet,2.0,Delivered,,1945.98
+ORD-00420,2024-03-06,CUST-1028,New,North,Fashion,Running Shoes,377.65,1,0,COD,3.0,Delayed,4.0,377.65
+ORD-00566,2024-12-03,CUST-1100,New,Central,Grocery,Olive Oil 1L,900.14,3,25,Net Banking,3.0,Delayed,1.0,2025.32
+ORD-00078,2024-04-02,CUST-1096,Regular,West,Home & Kitchen,LED Lamp,3245.0,3,0,Net Banking,3.0,Delivered,5.0,9735.0
+ORD-00182,2024-07-16,CUST-1239,Regular,South,Beauty,Shampoo,1216.18,2,10,COD,2.0,Cancelled,4.0,2189.12
+ORD-00285,2024-05-21,CUST-1143,New,Central,Home & Kitchen,Cushion Cover,3223.78,3,5,Net Banking,,Delayed,4.0,9187.77
+ORD-00011,2024-10-03,CUST-1063,New,North,Home & Kitchen,Cushion Cover,3085.41,4,0,Net Banking,4.0,Delivered,4.0,12341.64
+ORD-00470,2024-10-18,CUST-1126,Premium,Central,Electronics,Power Bank,3843.18,2,5,Wallet,7.0,Cancelled,1.0,7302.04
